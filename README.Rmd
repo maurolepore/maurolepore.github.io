@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 # About
 
-maurolepore@gmail.com | [Twitter](https://twitter.com/mauro_lepore) | [CTFS-ForestGEO](https://twitter.com/ForestGEO)
+maurolepore@gmail.com \| [Twitter](https://twitter.com/mauro_lepore) \| [CTFS-ForestGEO](https://twitter.com/ForestGEO)
 
 Hi, I'm Mauro Lepore, R package developer at [CTFS-ForestGEO](https://twitter.com/ForestGEO) (The Center for Tropical Forest Science - Forest Global Earth Observatory). I am interested in getting more by getting along with people, pragmatism, scientific storytelling, GitHub and R.
 
