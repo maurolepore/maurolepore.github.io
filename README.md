@@ -31,7 +31,7 @@ maurolepore <- maurolepore %>%
 
 --
 
-Surfing is harder than science and software development. I grew up in Buenos Aires, far from the ocean. To chase waves, I first become a lifeguard. I then surfed every summer for 12 years, but my surfing was still poor. So I studied biology and then did a PhD in marine ecology in Australia. There, I surfed every week for over 4 years; my surfing improved but not much. Next I did a postdoc in Panama and catched a some more waves. Because my progress is slower surfing than developing software, I now write R programs for [CTFS-ForestGEO](http://www.forestgeo.si.edu/). So this is me, a guy from a busy city who became an ecologist and software developer because surfing is too hard.
+Surfing is harder than science and software development. I grew up in Buenos Aires, far from the ocean. To chase waves, I first become a lifeguard. I then surfed every summer for 12 years, but my surfing was still poor. So I studied biology and then did a PhD in marine ecology in Australia. There, I surfed every week for over 4 years; my surfing improved but not much. Next, I did a postdoc in Panama and catched a some more waves. Because my progress is slower surfing than developing software, I now write R programs for [CTFS-ForestGEO](http://www.forestgeo.si.edu/). So this is me, a guy from a busy city who became an ecologist and software developer because surfing is too hard.
 
 Featured
 ========
@@ -42,6 +42,8 @@ Latest presentations
 If you want to use any of these presentations, do it freely and if you can [give me feedback](maurolepore@gmail.com).
 
 ### Research
+
+-   [Corales del Pasado Revelan un Arrecife Saludable en Bocas del Toro](https://twitter.com/mauro_lepore/status/837833843692474368)
 
 -   [Prisine Reef Wanted Dead or Alive](https://www.youtube.com/watch?v=MM29AB-52HY)
 
