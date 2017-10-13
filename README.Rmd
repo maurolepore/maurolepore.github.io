@@ -23,10 +23,16 @@ Hi, I'm Mauro Lepore, R package developer at [CTFS-ForestGEO](https://twitter.co
 You can find me on [Twitter](https://twitter.com/mauro_lepore), working with cool people in Washington DC, visiting friends and family in Argentina, running or surfing.
 
 ```R
-maurolepore <- maurolepore %>% 
+mauro_lepore %>% 
   grow_up(in = "Buenos Aires, Argentina") %>% 
-  undergrad(in = "biology", at = "University of Buenos Aires, Argentina") %>% 
-  phd(in = "ecology", at = "University of Queensland, Australia")
+  undergrad(
+    in = "biology", 
+    at = "University of Buenos Aires, Argentina"
+  ) %>% 
+  phd(
+    in = "ecology", 
+    at = "University of Queensland, Australia"
+  ) %>% 
   postdoc(
     in = "marine palaeoecology", 
     at = "Smithsonian Tropical Research Institute, Panama"
@@ -35,7 +41,7 @@ maurolepore <- maurolepore %>%
     as = "R Package Developer", at = "ForestGEO-CTFS",
     url = "http://www.forestgeo.si.edu/"
   ) %>% 
-  love(what = c("surfing"))
+  love(what = "surfing")
 ```
 
 # Featured
