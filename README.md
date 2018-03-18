@@ -10,33 +10,11 @@ Mauro Lepore
 About
 =====
 
-<maurolepore@gmail.com> / [Twitter](https://twitter.com/mauro_lepore) / [CTFS-ForestGEO](https://twitter.com/ForestGEO)
+Based at the Smithsonian's National Museum of Natural History, I maintain computer programs that help ecologists to analyse the diversity and dynamics of forests around the world. I belong to the Center for Tropical Forest Science and Forest Global Earth Observations ([CTFS-ForestGEO](http://www.forestgeo.si.edu/)).
 
-Hi, I'm Mauro Lepore, R package developer at [CTFS-ForestGEO](https://twitter.com/ForestGEO) (The Center for Tropical Forest Science - Forest Global Earth Observatory). I am interested in getting more by getting along with people, pragmatism, scientific storytelling, GitHub and R.
+I first joined the Smithsonian in 2016 and researched how coral reefs in Bocas del Toro, Panama, have changed over the past 7,000 years in response to human impacts. Before that I did a PhD in ecology (2015) at the University of Queensland, Australia, and a bachelors in marine biology (2008) at the University of Buenos Aires, Argentina.
 
-You can find me on [Twitter](https://twitter.com/mauro_lepore), working with cool people in Washington DC, visiting friends and family in Argentina, running or surfing.
-
-``` r
-mauro_lepore %>% 
-  grow_up(in = "Buenos Aires, Argentina") %>% 
-  undergrad(
-    in = "biology", 
-    at = "University of Buenos Aires, Argentina"
-  ) %>% 
-  phd(
-    in = "ecology", 
-    at = "University of Queensland, Australia"
-  ) %>% 
-  postdoc(
-    in = "marine palaeoecology", 
-    at = "Smithsonian Tropical Research Institute, Panama"
-  ) %>% 
-  work_now(
-    as = "R Package Developer", at = "ForestGEO-CTFS",
-    url = "http://www.forestgeo.si.edu/"
-  ) %>% 
-  love(what = "surfing")
-```
+[Contact me](https://github.com/maurolepore).
 
 Featured
 ========
