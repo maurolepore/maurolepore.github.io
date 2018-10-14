@@ -1,7 +1,13 @@
 
 ### About
 
-[*Mauro Lepore*](https://twitter.com/mauro_lepore)
+Mauro Lepore
+
+[Twitter](https://twitter.com/mauro_lepore)
+[R-blog](https://fgeo.netlify.com/) [R-channel](http://bit.ly/r-videos)
+[R-packages](https://forestgeo.github.io/fgeo)
+[GitHub](https://github.com/maurolepore)
+[LinkedIn](https://www.linkedin.com/in/mauro-lepore-5669a820)
 
 Based at the Smithsonian’s National Museum of Natural History, I
 maintain computer programs that help ecologists to analyse the diversity
@@ -14,15 +20,6 @@ Bocas del Toro, Panama, have changed over the past 7,000 years in
 response to human impacts. Before that I did a PhD in ecology (2015) at
 the University of Queensland, Australia, and a bachelors in marine
 biology (2008) at the University of Buenos Aires, Argentina.
-
-–
-
-[GitHub](https://github.com/maurolepore),
-[Linkedin](https://www.linkedin.com/in/mauro-lepore-5669a820),
-[Twitter](https://twitter.com/mauro_lepore), [R
-video-channel](http://bit.ly/r-videos), [R
-packages](https://forestgeo.github.io/fgeo), [R
-Blog](https://fgeo.netlify.com/)
 
 ### Contributions to open software and reproducible research
 
