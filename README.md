@@ -1,7 +1,7 @@
-Mauro Lepore
-================
 
-# About
+### About
+
+[*Mauro Lepore*](https://twitter.com/mauro_lepore)
 
 Based at the Smithsonian’s National Museum of Natural History, I
 maintain computer programs that help ecologists to analyse the diversity
@@ -24,9 +24,7 @@ video-channel](http://bit.ly/r-videos), [R
 packages](https://forestgeo.github.io/fgeo), [R
 Blog](https://fgeo.netlify.com/)
 
-## Featured
-
-### Contribution to open source software and reproducible research
+### Contributions to open software and reproducible research
 
 #### Meetups
 

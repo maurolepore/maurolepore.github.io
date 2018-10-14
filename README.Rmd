@@ -1,9 +1,8 @@
 ---
-title: "Mauro Lepore"
 output:
   github_document:
     toc: true
-    toc_depth: 3
+    toc_depth: 5
 ---
 
 ```{r, echo = FALSE}
@@ -14,7 +13,9 @@ knitr::opts_chunk$set(
 )
 ```
 
-# About
+### About
+
+[_Mauro Lepore_](https://twitter.com/mauro_lepore)
 
 Based at the Smithsonian's National Museum of Natural History, I maintain computer programs that help ecologists to analyse the diversity and dynamics of forests around the world. I belong to the Center for Tropical Forest Science and Forest Global Earth Observations ([CTFS-ForestGEO](http://www.forestgeo.si.edu/)).
 
@@ -24,9 +25,7 @@ I first joined the Smithsonian in 2016 and researched how coral reefs in Bocas d
 
 [GitHub](https://github.com/maurolepore), [Linkedin](https://www.linkedin.com/in/mauro-lepore-5669a820), [Twitter](https://twitter.com/mauro_lepore), [R video-channel](http://bit.ly/r-videos), [R packages](https://forestgeo.github.io/fgeo), [R Blog](https://fgeo.netlify.com/)
 
-## Featured
-
-### Contribution to open source software and reproducible research
+### Contributions to open software and reproducible research
 
 #### Meetups
 
