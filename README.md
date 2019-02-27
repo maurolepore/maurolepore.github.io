@@ -157,15 +157,20 @@ Contributed to multiple, popular R-packages, e.g.:
 #### 2018
 
   - Professional development scholarship from the Australian Embassy in
-    Buenos Aires to attend the workshop [Building tidy
-    tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/),
-    San Francisco, USA (USD 1,600).
+    Buenos Aires (USD 1,600):
+    
+      - Workshop [Building tidy
+        tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/),
+        San Francisco, USA
+    
+      - [LatinR](http://latin-r.com/) conference, Buenos Aires,
+        Argentina.
 
   - Academic discount from RStudio to attend the workshop [Building tidy
     tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/),
     San Francisco, USA (USD 1,200).
 
-  - Full scholarship to attend [rOpenSci](https://ropensci.org/)’s
+  - Scholarship to attend [rOpenSci](https://ropensci.org/)’s
     [runconf18](http://unconf18.ropensci.org/#participants), Seattle,
     USA (~USD 1,500).
 
