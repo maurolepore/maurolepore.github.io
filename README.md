@@ -7,7 +7,7 @@ Mauro Lepore
 [R-blog](https://fgeo.netlify.com/) [R-channel](http://bit.ly/r-videos)
 [R-packages](https://forestgeo.github.io/fgeo)
 [GitHub](https://github.com/maurolepore)
-[LinkedIn](https://www.linkedin.com/in/mauro-lepore-5669a820)
+[LinkedIn](https://www.linkedin.com/in/mauro-lepore)
 
 Based at the Smithsonian’s National Museum of Natural History, I
 maintain computer programs that help ecologists to analyse the diversity
@@ -141,24 +141,35 @@ Contributed to multiple, popular R-packages, e.g.:
     Symposium at the Smithsonian Tropical Research Institute,
     Panama)](https://www.youtube.com/watch?v=MM29AB-52HY).
 
-### Sponsors
+### Most recent grants and sponsors
 
-  - Full [diversity
+#### 2019
+
+  - Diversity scholarship to attend the
+    [chirunconf](https://chirunconf.github.io/), R Unconference in
+    Chicago, USA (USD 300).
+
+  - [Diversity
     scholarship](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
-    (equivalent to $3000) from rstudio to attend the conference
-    rstudio::conf 2019.
+    from rstudio to attend the conference rstudio::conf 2019 (USD
+    3,000).
 
-  - $1600 from the Australian Embassy in Buenos Aires to attend the
-    workshop [Building tidy
+#### 2018
+
+  - Professional development scholarship from the Australian Embassy in
+    Buenos Aires to attend the workshop [Building tidy
     tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/),
-    San Francisco, USA.
+    San Francisco, USA (USD 1,600).
 
-  - Academic discount (equivalent to $1200) from RStudio to attend the
-    workshop [Building tidy
+  - Academic discount from RStudio to attend the workshop [Building tidy
     tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/),
-    San Francisco, USA.
+    San Francisco, USA (USD 1,200).
 
-  - Full scholarship (flights, hotel, and food) from rOpenSci to attend
-    the meeting/workshop
+  - Full scholarship to attend [rOpenSci](https://ropensci.org/)’s
     [runconf18](http://unconf18.ropensci.org/#participants), Seattle,
-    USA.
+    USA (~USD 1,500).
+
+### Largest grant and sponsor
+
+2011-2015: AusAid scholarship for PhD at the University of Queensland,
+Australia (~USD 190,000)

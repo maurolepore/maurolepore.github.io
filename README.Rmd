@@ -22,13 +22,11 @@ Mauro Lepore
 [R-channel](http://bit.ly/r-videos)
 [R-packages](https://forestgeo.github.io/fgeo)
 [GitHub](https://github.com/maurolepore)
-[LinkedIn](https://www.linkedin.com/in/mauro-lepore-5669a820)
+[LinkedIn](https://www.linkedin.com/in/mauro-lepore)
 
 Based at the Smithsonian's National Museum of Natural History, I maintain computer programs that help ecologists to analyse the diversity and dynamics of forests around the world. I belong to the Center for Tropical Forest Science and Forest Global Earth Observations ([CTFS-ForestGEO](http://www.forestgeo.si.edu/)).
 
 I first joined the Smithsonian in 2016 and researched how coral reefs in Bocas del Toro, Panama, have changed over the past 7,000 years in response to human impacts. Before that I did a PhD in ecology (2015) at the University of Queensland, Australia, and a bachelors in marine biology (2008) at the University of Buenos Aires, Argentina.
-
-
 
 ### Contributions to open software and reproducible research
 
@@ -113,13 +111,22 @@ Contributed to multiple, popular R-packages, e.g.:
 
 
 
-### Sponsors
+### Most recent grants and sponsors
 
-* Full [diversity scholarship](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/) (equivalent to $3000) from rstudio to attend the conference rstudio::conf 2019.
+#### 2019
 
-* $1600 from the Australian Embassy in Buenos Aires to attend the workshop [Building tidy tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/), San Francisco, USA.
+* Diversity scholarship to attend the [chirunconf](https://chirunconf.github.io/), R Unconference in Chicago, USA (USD 300).
 
-* Academic discount (equivalent to $1200) from RStudio to attend the workshop [Building tidy tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/), San Francisco, USA.
+* [Diversity scholarship](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/) from rstudio to attend the conference rstudio::conf 2019 (USD 3,000).
 
-* Full scholarship (flights, hotel, and food) from rOpenSci to attend the meeting/workshop [runconf18](http://unconf18.ropensci.org/#participants), Seattle, USA.
+#### 2018
 
+* Professional development scholarship from the Australian Embassy in Buenos Aires to attend the workshop [Building tidy tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/), San Francisco, USA (USD 1,600).
+
+* Academic discount from RStudio to attend the workshop [Building tidy tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/), San Francisco, USA (USD 1,200).
+
+* Full scholarship to attend [rOpenSci](https://ropensci.org/)'s [runconf18](http://unconf18.ropensci.org/#participants), Seattle, USA (~USD 1,500).
+
+### Largest grant and sponsor
+
+2011-2015: AusAid scholarship for PhD at the University of Queensland, Australia (~USD 190,000)
