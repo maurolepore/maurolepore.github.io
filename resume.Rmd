@@ -1,0 +1,302 @@
+---
+title: "resume"
+output: github_document
+---
+
+MAURO LEPORE
+
++1 346 773 2738 | maurolepore@gmail.com
+
+# SKILLS IN DATA SCIENCE
+
+I developed and used my skills in data science both during my doctoral and post-doctoral research. I received intensive training in the R programming language and statistical environment. This training included 15 courses (see section Skills in Data Science in my CV; copied below).
+
+Using my R skills, I have managed and analyzed all data during my PhD (2015, as cited in methods section of my PhD thesis http://espace.library.uq.edu.au/view/UQ:371899) and during the postdoctoral research at the Smithsonian Tropical Research Institute, Panama (2016-2017, https://odealab.com/, (http://rpubs.com/maurolepore/coral).
+
+## Data analysis
+
+I am proficient in tools for data analysis. For example:
+
+* readr, to import raw data (readr.tidyverse.org).
+* tidyr, to create tidy data (tidyr.tidyverse.org).
+* dplyr, to manipulate data (dplyr.tidyverse.org ).
+* ggplot2, to visualize data (ggplot2.tidyverse.org).
+* lmer4, to model data (github.com/lme4/lme4) and modelr, to pipe-line multiple model. (github.com/tidyverse/modelr).
+* knitr and friends to communicate results via reproducible reports (yihui.name/knitr).
+
+## Software engineering
+
+I am proficient in tools for software development. For example:
+
+* devtools, to build and update R packages (r-pkgs.had.co.nz).
+* GitHub to maintain and expand R packages, enabling software version-control and remote collaboration with co-workers .
+* roxygen2, to document help pages of functions, data and packages (https://goo.gl/AmqVj0).
+* profvis, to optimize code for speed (rstudio.github.io/profvis).
+* A modern style guide to write easy-to-read code (style.tidyverse.org).
+* dplyr, to interact with remote databases directly from R (github.com/tidyverse/dbplyr).
+* rmarkdown, to produce documents of many types, including:
+    * static reports in .pdf, .docx and .html format (rmarkdown.rstudio.com).
+    * books, papers and other technical documents (bookdown.org/yihui/bookdown).
+    * websites (https://goo.gl/pqm8F1; and for R packages hadley.github.io/pkgdown).
+    * slideshows (https://goo.gl/c5sn7G).
+* Shiny, to develop interactive web applications (shiny.rstudio.com).
+
+# DATA-SCIENCE COURSES
+
+(Registration documents https://goo.gl/7H9XWZ)
+
+* July 12 & 19, 2016. Statistical computing using R, Smithsonian Tropical Research Institute, Panama (by Justin Touchon, Assistant Professor, Vassar College).
+* February 13-14, 2014. Software carpentry bootcamp for ecologists and evolutionary biologists, The Centre for Ecosystem Science, University of New South Wales, Sydney, Australia.
+* November 24-26, 2014. Advanced R, Centre for Applications in Natural Resource Mathematics, The University of Queensland, Australia (by Bill Venables, CSIRO).
+* November 04-08, 2013. Introduction to R, Centre for Applications in Natural Resource Mathematics, Australia (by Assoc. Prof. Anthony J. Richardson (UQ) & Assoc. Prof. Dave Schoeman (USC)).
+
+Online
+
+2013-2014. Coursera’s specialization in data science (https://goo.gl/e9Bcpn) including:
+
+* The Data Scientist’s Toolbox.
+* R Programming.
+* Getting and Cleaning Data.
+* Exploratory Data Analysis.
+* Reproducible Research.
+* Statistical Inference.
+* Regression Models.
+* Practical Machine Learning.
+* Developing Data Products.
+
+2013-2014. Other courses (Cousera)
+
+* Computing for data analysis.
+* Coursera, statistics one.
+* Coursera, data analysis.
+
+# EDUCATION
+	
+## 2015 Ph.D,  School of Biological Sciences.
+
+The University of Queensland, Australia.
+
+Thesis: Long term dynamics of coral reefs in the inshore southern Great Barrier Reef (advisors: Prof. John Pandolfi, Prof. Jian-xin Zhao).
+
+## 2008 Licenciado in Biological Sciences (~Bachelor + Masters).
+
+Faculty of Natural Sciences,  University of Buenos Aires, Argentina.
+
+Thesis: Estudio del crecimiento de la almeja amarilla Argentina Mesodesma mactroides por marcaje fluorescente in situ y comparación con el método de análisis de distribuciones de frecuencias de tallas (advisors: Prof. Pablo Penchaszadeh, and Prof. Marko Herrmann).
+
+# PROFESSIONAL APPOINTMENTS
+
+## 2017-04 to 2017-06. Postdoctoral Fellow.
+
+Smithsonian Tropical Research Institute (STRI), Roosevelt Ave. Tupper Building – 401, Panama City (9100), Panama.
+
+Project #3976: Quantifying Ecological Changes in Reef-Building Corals from Bocas del Toro since 7,000 years ago (STRI Host/Advisor: Aaron O'Dea). 
+Computational tools and techniques are crucial in natural-sciences research (e.g. these two papers published in nature in 2017: (1) neuroscience https://goo.gl/QgvAEx; (2) ecology & evolution https://goo.gl/L0z4Fg). In this project, I have been exercising not only my ecological skills but also my IT skills.
+
+For over one year, I have heavily used (and expanded) my skills in software development in R and in data management with Git and GitHub. Those tools I have used to develop multiple products of my research, including analyses, plots, data sets, and reports of multiple types. (Reports succinctly integrate all other products, and communicate ideas hiding implementation details that may bore or confuse the viewer.) A few examples include:
+
+* Presentation for research meeting (built using R Markdown Presentations; used GitHub to host data (privately) and for software version-control; the data-science workflow was managed with tidyverse packages):
+
+    * February, 2017. Lepore ML and O’Dea A. Pristine reefs wanted dead or alive. STRI fellows’ symposium, Tupper, Smithsonian Tropical Research Institute, Panama (https://goo.gl/i3lHe8).
+
+* Presentations to motivate learning and using computational tools and techniques for research (built using R Markdown Presentations).
+
+    * March 28, 2017. Lepore ML. Manage and share data with GitHub and R packages (https://goo.gl/2afS7R). Invited speaker at the workshop on Digital Data in Paleontological Research, UC Berkeley, USA https://goo.gl/h67f4v).
+    
+    * November 09, 2016. Lepore ML. Why and how to use git with R Studio (https://goo.gl/2WMfqL). Training for students. Naos, Smithsonian Tropical Research Institute, Panama.
+    
+    * August 28, 2016. Lepore ML, Kelly A. Managing and Sharing Data (https://goo.gl/LKF93D). Lab seminar. Naos, Smithsonian Tropical Research Institute, Panama.
+
+* GitHub repository of a guide to identify corals from the Caribbean (https://github.com/maurolepore/ccsig) and its corresponding images gallery, served by GitHub (https://maurolepore.github.io/ccsig/).
+
+* Website to host the development version of my research and to communicate internally with my students and STRI advisor (rpubs.com/maurolepore/coral; built using R Markdown flexadashboards; used GitHub to host data (privately) and for software version-control; the data-science workflow was managed with tidyverse packages).
+
+## 2016-02 to 2016-04. Short Term Fellow (research).
+
+Smithsonian Tropical Research Institute (STRI), Roosevelt Ave. Tupper Building – 401, Panama City (9100), Panama.
+
+## 2016-12. Tutor from STRI for GEOS 405, Texas A&M University
+
+Five days trip to Bocas del Toro, Panama.
+
+Teaching assistant including lecturing and advising students in the development of their independent research projects. Also responsible for snorkeling safety and for translating guided tours from Spanish to English.
+
+## 2011-04 to 2015-06 Tutor for Science Camps.
+
+Moreton Bay Research Station (MBRS), The University of Queensland.
+
+Lecturer and demonstrator for high school students (groups > 50). Responsible for liaising with school teachers and coordinating less experienced tutors in running lab- and field based activities.
+
+## 2014-11. Tutor for Stanford University students.
+
+One week trip to MBRS.
+
+International Programs, The University of Queensland.
+
+Teaching assistant including marking. Also responsible for boating and snorkeling safety, field and lab gear and driving groups of students (> 10).
+
+## 2014-06. Tutor for UQ Experience Science
+
+Two days at The University of Queensland.
+
+Teaching assistant. Responsible for supervising lab activities of high school students during promotional visits to the University of Queensland.
+
+## 2014-04. Tutor for UQ MARS2005
+
+Two weeks trip to Heron Island Research Station (HIRS), The University of Queensland.
+
+Teaching assistant including mentoring groups of students (> 5) in the development of independent projects. Responsible lab- and field based activities.
+
+## 2014-03. Tutor for UQ MARS2005
+
+Two 3-days trip to MBRS, The University of Queensland.
+
+Teaching assistant including marking exams and mentoring groups of students (> 5) in the development of independent research projects. Responsible lab- and field gear and activities, and for boating and snorkeling safety.
+
+## 2014-03. Tutor for UQ MARS2014
+
+One semester at  The University of Queensland.
+
+Teaching assistant. Responsible for delivering introductory lectures during field activities and for mentoring groups of students in the development of independent research projects on campus.
+
+## 2013-09. Tutor for Stanford University students.
+
+One week trip to MBRS,  International Programs, The University of Queensland.
+
+Teaching assistant. Responsible for boating and snorkeling safety, field and lab gear and driving groups of students (> 10).
+
+## 2012-09. Tutor for students from the University of California.
+
+Ten days trip to MBRS, International Programs, The University of Queensland.
+
+Teaching assistant. Responsible mentoring groups of students (> 5) in the development of independent research projects.
+
+## 2012-04. Tutor for UQ MARS2014.
+
+One semester at The University of Queensland.
+
+Teaching assistant including marking students presentations, mentoring their independent research projects and for supervising field activities.
+
+## 2004-04 to 2004-08, and 2003-07 to 2003-12. Speaker in guided tours, Museo Argentino de Ciencias Naturales, Argentina.
+
+Responsible for explaining the exhibition at the national museum of natural history in Buenos Aires, Argentina, to engage the general public, from kids to adults, and primary school groups.
+
+
+
+
+
+
+
+# FUNDING
+
+2016
+2016
+2016
+2011–2015
+2015	Using drones for the Environmental Sciences, SAMS, Scotland
+Short Term Fellowship, Smithsonian Tropical Research Institute
+O’Dea lab, Smithsonian Tropical Research Institute
+Australian Development Scholarship, Australia Awards
+International Scholarship, University of Queensland (UQ)	~$500
+$3,000
+$1,200
+$259,290
+$7,400
+2014	Graduate School International Travel Award, UQ	$4,271
+2014	Biological Sciences International Travel Award, UQ	$1,600
+DISTINCTIONS
+		
+2008	Diploma with Honours for achieving an average mark of 8.27/10 for the degree in Biological Sciences, University of Buenos Aires
+PEER REVIEWED ARTICLES
+		
+4.  Herrmann M, Alfaya JEF, Lepore ML, Penchaszadeh PE, Arntz WE (2011) Population structure, growth and production of the yellow clam Mesodesma mactroides (Bivalvia: Mesodesmatidae) from a high-energy, temperate beach in northern Argentina. Helgoland Marine Research, 65, 285-297.
+3.  Herrmann M, Alfaya JEF, Lepore ML, Penchaszadeh PE, Laudien J (2009a) Reproductive cycle and gonad development of the Northern Argentinean Mesodesma mactroides (Bivalvia: Mesodesmatidae). Helgoland Marine Research, 63, 207-218.
+2.  Herrmann M, Lepore ML, Laudien J, Arntz WE, Penchaszadeh PE (2009b) Growth estimations of the Argentinean wedge clam Donax hanleyanus: A comparison between length-frequency distribution and size-increment analysis. Journal of Experimental Marine Biology and Ecology, 379, 8-15.
+1.  Lepore ML, Penchaszadeh PE, Alfaya JEF, Herrmann M (2009) Application of calcein for estimating growth of the yellow clam Mesodesma mactroides Reeve, 1854. Revista de Biología Marina y Oceanografía, 44, 767-774.
+PRESENTATIONS
+		
+2017
+
+
+2017
+
+2017
+
+2017
+
+2017
+
+2016
+
+2016
+
+2016
+
+
+2016
+
+2016
+
+2014	Lepore ML. Manage and share data with GitHub and R packages (https://goo.gl/2afS7R). Invited speaker at the workshop on Digital Data in Paleontological Research, UC Berkeley, USA https://goo.gl/h67f4v).
+Lepore ML and O’Dea A. Pristine reefs wanted dead or alive. STRI fellows’ symposium, Tupper, Smithsonian Tropical Research Institute, Panama (youtu.be/MM29AB-52HY).
+Lepore ML and O’Dea A. Pristine reefs wanted dead or alive. Center for Tropical Paleoecology and Archaeology, Smithsonian Tropical Research Institute, Panama (invited by Carlos Jaramillo).
+Lepore ML. Be pragmatic: principles to improve work and life. Bambi seminar at Barro Colorado Island, Smithsonian Tropical Research Institute, Panama (invited by Melissa Cano).
+Lepore ML. Be pragmatic: principles to improve work and life. Joint lab meeting. Naos, Smithsonian Tropical Research Institute, Panama (invited by Rachel Collins).
+Lepore ML. Humans worldwide and coral reefs here. Bocas del Toro Research Station, Smithsonian Tropical Research Institute, Panama (invited by Aaron O’Dea and Erin Dillon for Greenbay international undergraduate course).
+Lepore ML. Why and how to use git with R Studio (https://goo.gl/2WMfqL). Training for students. Naos, Smithsonian Tropical Research Institute, Panama.
+Muñoz N, Chan BL, Lepore ML, Altieri A and O’Dea A. Colección de referencia de esqueletos calcáreos del Caribe. Asociación Panameña para el Avance de la Ciencia (poster by students).
+Lepore ML, Kelly A. Manageing and Sharing Data (https://goo.gl/LKF93D). Lab seminar. Naos, Smithsonian Tropical Research Institute, Panama.
+Lepore ML. Ecology and Conservation of Caribbean Coral Reefs: Historical Perspective. Public talk at Biomuseo, Panama City, Panama (invited).
+Lepore ML, Rodriguez-Ramirez A, Clark T, Roff G, Zhao JX and Pandolfi JM. Uranium series dating helps to reconstruct historical patterns of coral mortality in the Keppel islands, inshore southern Great Barrier Reef. 4th International Palaeontological Congress, Mendoza.
+2014	Lepore ML, Roff G, Clark TR, Zhao JX, Pandolfi JM. Eight thousand year history of coral reef accretion in the Keppel Islands, inshore southern Great Barrier Reef. Australian Coral Reef Society, Brisbane.
+2013	Lepore ML, Rodríguez-Ramirez A, Clark T, Zhao XJ, Pandolfi JM. Historical Patterns of Coral mortality at Halfway and North Keppel Islands, inshore southern Great Barrier Reef. Australian Marine Sciences Association, Gold Coast
+2013	Lepore ML, Zhao XJ, Pandolfi JM. Long term dynamics of coral reefs in the inshore southern Great Barrier Reef. Great Barrier Reef Marine Park Authority, Townsville. April 2013 (invited)
+2012	Lepore ML, Zhao XJ, Pandolfi JM. Long term dynamics of coral reefs in the inshore southern Great Barrier Reef. Marine Spatial Ecology Lab. June 2012 (invited)
+2010	Lepore ML, Herrmann M, Penchaszadeh PE. Application of calcein for estimating growth of the yellow clam Mesodesma mactroides. Institute of Baltic Sea Fisheries, Rostock, Germany (invited)
+STUDENTS MENTORED / SUPERVISED
+			
+2016
+2016
+2014
+2014
+2014	Postgraduate student Nicte-Ha Muñoz, UNAM, Mexico
+Graduate student, Melisa Chan, College of the Atlantic (COA) in Bar Harbor, Maine, USA
+Undergraduate student, Katie Lee, University of Southern California, USA.
+Undergraduate student, Monalisa Iarla Duarte De Oliveira, Universidade Federal do Ceará, Brasil
+Undergraduate student, Marcela Tosta, Universidade de Brasília, Brasil.
+VOLUNTEERS SUPERVISED
+		
+In the lab
+Sarah Whiteley, Ian Butler, Marine Couraudon-Réale, Monalisa Duarte de Olivera, Elisa Fernandez-Fernandez, Peita Houlihan, Alex Nelson, Cedric Pellegrini, Omer Polak
+In the field
+Ian Butler, Bruno Carturan, Tara Clark, Marine Couraudon-Réale, Matthew Kosnik, Nicole Leonard, Hannah Markham, Robert Mason, Omer Polak, Martina Prazeres, Paola Rachello-Dolmen, Ruth Reef and Alberto Rodriguez
+MAJOR FIELD EXPEDITIONS
+			
+2016
+
+2016
+
+2013	Underwater collection (SCUBA) of alive fish using nets from coral reefs from islands in the Pacific Panama
+Underwater collection (SCUBA) of bulk samples from modern coral reefs and geologic collection of bulk samples from mid-Holocene reefs, from multiple locations in Dominican Republic.
+Reef matrix coring and coral death assemblage collection in Hervey Bay, south of the Great Barrier Reef (GBR), Australia. Live aboard 
+2013	Reef matrix coring, coral drilling, coral death assemblage collection, air lifting for molluscs collection and benthic surveys in the Keppel Islands, southern GBR, Australia. Live aboard, 2 weeks. Lead Scientist, dive coordinator.
+2012	Reef matrix coring, coral drilling, coral death assemblage collection, benthic surveys and sea level surveys in the Franklands Islands, northern GBR, Australia. Live aboard, 3 weeks.
+2012	Reef matrix coring and coral death assemblage collection in Hervey Bay, south of the Great Barrier Reefs Australia.
+2012	Foraminifers collection at Heron Island, GBR, Australia.
+2012	Reef matrix coring, coral drilling, coral death assemblage collection and benthic surveys in the Keppel Islands, southern Great Barrier Reef (GBR), Australia (2 weeks). Lead Scientist, dive coordinator.
+PROFESSIONAL ASSOCIATIONS AND RESEARCH GROUPS
+		
+Marine Palaeoecology lab (UQ); Radiogenic Isotope Facility (UQ); NERP Tropical Ecosystems Hub Project 1.3 “Characterising the cumulative impacts of global, regional and local stressors on the present and past biodiversity of the GBR”; ARC Centre of Excellence for Coral Reef Studies.
+LANGUAGES
+		
+Fluent English and Spanish.
+CERTIFICATES AND LICENCES
+		
+Scientific SCUBA diver (ADAS), recreational boating licence, 4WD driving, lifeguarding, first aid, CPR, oxygen administration.
+ACADEMIC REFEREES
+		
+John Pandolfi, University of Queensland (UQ), Australia. j.pandolfi@uq.edu.au
+Marko Herrmann, Universidade Federal Rural da Amazônia, Brazil. marko.herrmann@gmx.de
+Aaron O'Dea, Smithsonian Tropical Research Institute, Panama. aaronodea@gmail.com
+Justine Kennedy, International Programs, The University of Queensland, Australia. j.kennedy3@uq.edu.au
+Kathy Townsend, Moreton Bay Research Station (UQ), Australia. kathy.townsend@uq.edu.au
