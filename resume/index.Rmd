@@ -1,0 +1,12 @@
+---
+title: "Mauro Lepore"
+site: bookdown::bookdown_site
+output:
+  bookdown::html_document2:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
