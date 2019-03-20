@@ -1,0 +1,23 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Jim Hester
+
+Would you be open to chat for a few minutes about career path?
+
+Your profile suggests you transitioned from analysis to engineering. I'm moving in that direction, except I'm far behind and afraid to loose touch with the analysis bit.
+
+I'm curious about how you picked up so much technical skill. And I would love to know what career directions you see that I may be missing — considering I come from ecology and am skilled almost exclusively in R and associated tooling and super keen to expand.
+
+### David Smith
+
+Yesterday I read a post about the upcoming RStudio Instructor Training, which reminded me chatting with you at satRdays-DC about the R certification initiative. There seems to be some overlap, isn't it?
+
+I'm starting to think about my next career challenge. If your role as mentor goes a little beyond technical aspects during the unconf, I'd love to ask you for 10' of your time to try learn how someone with your experience sees the career landscape for someone like me.
+
