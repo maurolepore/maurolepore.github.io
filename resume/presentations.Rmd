@@ -1,0 +1,33 @@
+# PRESENTATIONS
+
+2017. Lepore ML. Manage and share data with GitHub and R packages (https://goo.gl/2afS7R). Invited speaker at the workshop on Digital Data in Paleontological Research, UC Berkeley, USA https://goo.gl/h67f4v).
+
+2017. Lepore ML and O’Dea A. Pristine reefs wanted dead or alive. STRI fellows’ symposium, Tupper, Smithsonian Tropical Research Institute, Panama (youtu.be/MM29AB-52HY).
+
+2017. Lepore ML and O’Dea A. Pristine reefs wanted dead or alive. Center for Tropical Paleoecology and Archaeology, Smithsonian Tropical Research Institute, Panama (invited by Carlos Jaramillo).
+
+2017. Lepore ML. Be pragmatic: principles to improve work and life. Bambi seminar at Barro Colorado Island, Smithsonian Tropical Research Institute, Panama (invited by Melissa Cano).
+
+2017. Lepore ML. Be pragmatic: principles to improve work and life. Joint lab meeting. Naos, Smithsonian Tropical Research Institute, Panama (invited by Rachel Collins).
+
+2016. Lepore ML. Humans worldwide and coral reefs here. Bocas del Toro Research Station, Smithsonian Tropical Research Institute, Panama (invited by Aaron O’Dea and Erin Dillon for Greenbay international undergraduate course).
+
+2016. Lepore ML. Why and how to use git with R Studio (https://goo.gl/2WMfqL). Training for students. Naos, Smithsonian Tropical Research Institute, Panama.
+
+2016. Muñoz N, Chan BL, Lepore ML, Altieri A and O’Dea A. Colección de referencia de esqueletos calcáreos del Caribe. Asociación Panameña para el Avance de la Ciencia (poster by students).
+
+2016. Lepore ML, Kelly A. Manageing and Sharing Data (https://goo.gl/LKF93D). Lab seminar. Naos, Smithsonian Tropical Research Institute, Panama.
+
+2016. Lepore ML. Ecology and Conservation of Caribbean Coral Reefs: Historical Perspective. Public talk at Biomuseo, Panama City, Panama (invited).
+
+2014. Lepore ML, Rodriguez-Ramirez A, Clark T, Roff G, Zhao JX and Pandolfi JM. Uranium series dating helps to reconstruct historical patterns of coral mortality in the Keppel islands, inshore southern Great Barrier Reef. 4th International Palaeontological Congress, Mendoza.
+
+2014. Lepore ML, Roff G, Clark TR, Zhao JX, Pandolfi JM. Eight thousand year history of coral reef accretion in the Keppel Islands, inshore southern Great Barrier Reef. Australian Coral Reef Society, Brisbane.
+
+2013. Lepore ML, Rodríguez-Ramirez A, Clark T, Zhao XJ, Pandolfi JM. Historical Patterns of Coral mortality at Halfway and North Keppel Islands, inshore southern Great Barrier Reef. Australian Marine Sciences Association, Gold Coast
+
+2013. Lepore ML, Zhao XJ, Pandolfi JM. Long term dynamics of coral reefs in the inshore southern Great Barrier Reef. Great Barrier Reef Marine Park Authority, Townsville. April 2013 (invited)
+
+2012. Lepore ML, Zhao XJ, Pandolfi JM. Long term dynamics of coral reefs in the inshore southern Great Barrier Reef. Marine Spatial Ecology Lab. June 2012 (invited)
+
+2010. Lepore ML, Herrmann M, Penchaszadeh PE. Application of calcein for estimating growth of the yellow clam Mesodesma mactroides. Institute of Baltic Sea Fisheries, Rostock, Germany (invited)

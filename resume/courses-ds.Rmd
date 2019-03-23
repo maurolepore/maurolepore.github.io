@@ -1,0 +1,28 @@
+# DATA-SCIENCE COURSES
+
+(Registration documents https://goo.gl/7H9XWZ)
+
+* July 12 & 19, 2016. Statistical computing using R, Smithsonian Tropical Research Institute, Panama (by Justin Touchon, Assistant Professor, Vassar College).
+* February 13-14, 2014. Software carpentry bootcamp for ecologists and evolutionary biologists, The Centre for Ecosystem Science, University of New South Wales, Sydney, Australia.
+* November 24-26, 2014. Advanced R, Centre for Applications in Natural Resource Mathematics, The University of Queensland, Australia (by Bill Venables, CSIRO).
+* November 04-08, 2013. Introduction to R, Centre for Applications in Natural Resource Mathematics, Australia (by Assoc. Prof. Anthony J. Richardson (UQ) & Assoc. Prof. Dave Schoeman (USC)).
+
+Online
+
+2013-2014. Coursera’s specialization in data science (https://goo.gl/e9Bcpn) including:
+
+* The Data Scientist’s Toolbox.
+* R Programming.
+* Getting and Cleaning Data.
+* Exploratory Data Analysis.
+* Reproducible Research.
+* Statistical Inference.
+* Regression Models.
+* Practical Machine Learning.
+* Developing Data Products.
+
+2013-2014. Other courses (Cousera)
+
+* Computing for data analysis.
+* Coursera, statistics one.
+* Coursera, data analysis.

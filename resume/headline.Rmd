@@ -1,0 +1,3 @@
+# Headline
+
+R-package developer (~ software engineer, data scientist)
