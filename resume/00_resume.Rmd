@@ -1,17 +1,21 @@
 ---
 title: "Mauro Lepore"
-output: pdf_document
+subtitle: "Software developer / data scientist"
+author: "maurolepore@gmail.com, +1 346 773 2738, Washington DC"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, child="headline.Rmd"}
-
+```{r, child="summary.Rmd"}
 ```
 
-```{r, child="contact.Rmd"}
-
+```{r, child="experience.Rmd"}
 ```
+
 

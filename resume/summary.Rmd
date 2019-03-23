@@ -1,0 +1,2 @@
+I'm most experienced in software development, teaching/mentoring and research. I implement software solutions to help researchers work in an efficient, transparent, and reproducible way. I created and maintain a number of R packages now hosted on GitHub and CRAN. I often contribute as a developer or teacher to popular open software projects or communities (<https://maurolepore.github.io/>).
+
