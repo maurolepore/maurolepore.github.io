@@ -1,31 +1,28 @@
-## IT Specialist, R-package developer (~ software engenier, data scientist)
+### IT Specialist, R-package developer (~ software engenier, data scientist)
 
 ForestGEO  
 2017-08 - present  
-National Museum of Natural History, Smithsonian Institution, Washington DC, USA 
+National Museum of Natural History, Smithsonian Institution, Washington DC, USA  
 
-I implement software solutions to help researchers work in an efficient, transparent, and reproducible way. My main responsibilities are these:
+I implement software solutions to help researchers work in an efficient, transparent, and reproducible way. These are my main responsibilities. I mainly develop new software (R packages) and update a legacy code base. I also help researchers and students in the use of R, Git and GitHub.
 
-* Develop a completely redesigned ForestGEO R package.
-* Expand the preexisting R code-base.
-* Work with researchers/students to increase access and use of the R package.
+### Postdoctoral research fellow
 
-## Postdoctoral research fellow
-
-O'Dea Lab: Change and Variation in Tropical Seas (<https://odealab.com/>)  
+O'Dea Lab: Change and Variation in Tropical Seas  
 2016-02 to 2017-06  
 Smithsonian Tropical Research Institute, Panama City, Panama  
 
-I researched variation and change in reef corals over millennial timescales.
+Researcher on a project looking at changes in coral reefs through time. Also supervised two interns (one undergraduate and one postgraduate student).
 
-## Teaching assistant for field-research program (five days) for GEOS 405, Texas A&M University
+### Teaching assistant for field-research program (five days) for GEOS 405, Texas A&M University
 
-O'Dea Lab: Change and Variation in Tropical Seas (<https://odealab.com/>)  
-2016-12 
-Smithsonian Tropical Research Institute, Bocas del Toro Research Station, Panama 
-My role was to assist in teaching. I delivered lectures and advised students in the development of their independent research projects. I was also responsible for snorkeling safety and for translating guided tours from Spanish to English.
+O'Dea Lab: Change and Variation in Tropical Seas  
+2016-12  
+Smithsonian Tropical Research Institute, Bocas del Toro Research Station, Panama  
 
-## Lecturer / demonstrator / trainer for science camps
+I delivered lectures and advised students in the development of their independent research projects. I was also responsible for snorkeling safety and for translating guided tours from Spanish to English.
+
+### Lecturer / demonstrator / trainer for science camps
 
 The University of Queensland  
 2011-04 to 2015-06 Tutor  
@@ -33,7 +30,7 @@ Moreton Bay Research Station, North Stradbroke Island, Australia
 
 Lecturer and demonstrator for groups of high school students (> 50). Responsible for liaising with school teachers and coordinating less experienced tutors in running lab- and field based activities.
 
-## Teaching assistant for field-research program (one week) for students from Stanford University
+### Teaching assistant for field-research program (one week) for students from Stanford University
 
 International Programs, The University of Queensland  
 2014-11  
@@ -41,23 +38,23 @@ Moreton Bay Research Station, North Stradbroke Island, Australia
 
 Teaching assistant including marking assignments. Also responsible for boating and snorkeling safety, field and lab gear and driving groups of students (> 10).
 
-## Teaching assistant for UQ Experience Science
+### Teaching assistant for UQ Experience Science
 
 The University of Queensland  
 2014-06  
-St Lucia, Brisbane, Australia
+St Lucia, Brisbane, Australia  
 
 Teaching assistant. Responsible for supervising lab activities of high school students during promotional two-days visits to the University of Queensland.
 
-## Teaching assistant for field-research program (two weeks) for MARS2005, The University of Queensland
+### Teaching assistant for field-research program (two weeks) for MARS2005, The University of Queensland
 
 The University of Queensland  
 2014-04  
 Heron Island Research Station, Heron Island, Australia  
 
-Teaching assistant including mentoring groups of students (> 5) in the development of independent projects. Responsible lab- and field based activities.
+Teaching assistant including mentoring groups of students (> 5) in the development of independent projects. Responsible for lab- and field based activities.
 
-## Teaching assistant for field-research program (two groups, three days each) for MARS2005, The University of Queensland
+### Teaching assistant for field-research program (two groups, three days each) for MARS2005, The University of Queensland
 
 The University of Queensland  
 2014-03  
@@ -65,15 +62,15 @@ Moreton Bay Research Station, North Stradbroke Island, Australia
 
 Teaching assistant including marking exams and mentoring groups of students (> 5) in the development of independent research projects. Responsible lab- and field gear and activities, and for boating and snorkeling safety.
 
-## Teaching assistant for MARS2014 (one semester), The University of Queensland
+### Teaching assistant for MARS2014 (one semester), The University of Queensland
 
 The University of Queensland  
-2014-03
-St Lucia, Brisbane, Australia
+2014-03  
+St Lucia, Brisbane, Australia  
 
 Teaching assistant. Responsible for delivering introductory lectures during field activities and for mentoring groups of students in the development of independent research projects on campus.
 
-## Teaching assistant for field-research program (one week) for students from Stanford University
+### Teaching assistant for field-research program (one week) for students from Stanford University
 
 International Programs, The University of Queensland  
 2013-09  
@@ -81,15 +78,15 @@ Moreton Bay Research Station, North Stradbroke Island, Australia
 
 Teaching assistant. Responsible for boating and snorkeling safety, field and lab gear and driving groups of students (> 10).
 
-## Teaching assistant for field-research program (10 days) for students from the University of California
+### Teaching assistant for field-research program (10 days) for students from the University of California
 
-The University of Queensland
+The University of Queensland  
 2012-09  
 Moreton Bay Research Station, North Stradbroke Island, Australia  
 
 Teaching assistant. Responsible mentoring groups of students (> 5) in the development of independent research projects.
 
-## Teaching assistant for MARS2014 (one semester), The University of Queensland
+### Teaching assistant for MARS2014 (one semester), The University of Queensland
 
 The University of Queensland  
 2012-04  
@@ -97,7 +94,7 @@ St Lucia, Brisbane, Australia
 
 Teaching assistant including marking students presentations, mentoring their independent research projects and for supervising field activities.
 
-## Lecturer for guided tours at the "Museo Argentino de Ciencias Naturales, Argentina"
+### Lecturer for guided tours at the "Museo Argentino de Ciencias Naturales, Argentina"
 
 Museo Argentino de Ciencias Naturales, Argentina  
 2004-04 to 2004-08, and 2003-07 to 2003-12  
