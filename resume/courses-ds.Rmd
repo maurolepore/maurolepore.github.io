@@ -1,5 +1,3 @@
-# DATA-SCIENCE COURSES
-
 (Registration documents https://goo.gl/7H9XWZ)
 
 * July 12 & 19, 2016. Statistical computing using R, Smithsonian Tropical Research Institute, Panama (by Justin Touchon, Assistant Professor, Vassar College).

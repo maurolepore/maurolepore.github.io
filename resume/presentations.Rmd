@@ -1,5 +1,3 @@
-# PRESENTATIONS
-
 2017. Lepore ML. Manage and share data with GitHub and R packages (https://goo.gl/2afS7R). Invited speaker at the workshop on Digital Data in Paleontological Research, UC Berkeley, USA https://goo.gl/h67f4v).
 
 2017. Lepore ML and O’Dea A. Pristine reefs wanted dead or alive. STRI fellows’ symposium, Tupper, Smithsonian Tropical Research Institute, Panama (youtu.be/MM29AB-52HY).
