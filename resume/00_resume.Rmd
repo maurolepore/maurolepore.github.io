@@ -1,6 +1,6 @@
 ---
 title: "Mauro Lepore"
-subtitle: "Software developer / data scientist"
+subtitle: "Software engineer, data science support and trainer"
 author: "maurolepore@gmail.com, +1 346 773 2738, Washington DC"
 output:
   pdf_document: default
@@ -15,12 +15,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, child="summary.Rmd"}
 ```
 
-# EXPERIENCE
+## EXPERIENCE
 
-```{r, child="experience.Rmd"}
+```{r, child="experience-ds.Rmd"}
 ```
 
-# EDUCATION
+```{r, child="experience-research.Rmd"}
+```
+
+```{r, child="experience-teaching.Rmd"}
+```
+
+## EDUCATION
 
 ```{r, child="education.Rmd"}
 ```

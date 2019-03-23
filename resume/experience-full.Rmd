@@ -1,18 +1,4 @@
-### IT Specialist, R-package developer (~ software engenier, data scientist)
-
-ForestGEO  
-2017-08 - present  
-National Museum of Natural History, Smithsonian Institution, Washington DC, USA  
-
-I implement software solutions to help researchers work in an efficient, transparent, and reproducible way. These are my main responsibilities. I mainly develop new software (R packages) and update a legacy code base. I also help researchers and students in the use of R, Git and GitHub.
-
-### Postdoctoral research fellow
-
-O'Dea Lab: Change and Variation in Tropical Seas  
-2016-02 to 2017-06  
-Smithsonian Tropical Research Institute, Panama City, Panama  
-
-Researcher on a project looking at changes in coral reefs through time. Also supervised two interns (one undergraduate and one postgraduate student).
+## DETAILS
 
 ### Teaching assistant for field-research program (five days) for GEOS 405, Texas A&M University
 
@@ -22,13 +8,6 @@ Smithsonian Tropical Research Institute, Bocas del Toro Research Station, Panama
 
 I delivered lectures and advised students in the development of their independent research projects. I was also responsible for snorkeling safety and for translating guided tours from Spanish to English.
 
-### Lecturer / demonstrator / trainer for science camps
-
-The University of Queensland  
-2011-04 to 2015-06 Tutor  
-Moreton Bay Research Station, North Stradbroke Island, Australia  
-
-Lecturer and demonstrator for groups of high school students (> 50). Responsible for liaising with school teachers and coordinating less experienced tutors in running lab- and field based activities.
 
 ### Teaching assistant for field-research program (one week) for students from Stanford University
 
@@ -38,13 +17,6 @@ Moreton Bay Research Station, North Stradbroke Island, Australia
 
 Teaching assistant including marking assignments. Also responsible for boating and snorkeling safety, field and lab gear and driving groups of students (> 10).
 
-### Teaching assistant for UQ Experience Science
-
-The University of Queensland  
-2014-06  
-St Lucia, Brisbane, Australia  
-
-Teaching assistant. Responsible for supervising lab activities of high school students during promotional two-days visits to the University of Queensland.
 
 ### Teaching assistant for field-research program (two weeks) for MARS2005, The University of Queensland
 
