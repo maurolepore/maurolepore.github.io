@@ -36,16 +36,22 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, child="licenses-certifications.Rmd"}
 ```
 
+## SKILLS
+
+```{r, child="skills.Rmd"}
+```
+
 ## LANGUAGES
 
-Fluent English and Spanish.
+```{r, child="languages.Rmd"}
+```
 
 ## PROJECTS
 
 ```{r, child="projects.Rmd"}
 ```
 
-## DATA SCIENCE COURSES
+## PEER-REVIEWED PUBLICATIONS
 
-```{r, child="courses-ds.Rmd"}
+```{r, child="publications.Rmd"}
 ```

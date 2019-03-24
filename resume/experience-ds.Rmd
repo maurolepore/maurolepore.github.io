@@ -10,6 +10,9 @@ My official title is "IT specialist - R-package developer". I implement software
 
 The Carpentries  
 2018 - present  
-Multiple locations  
+
+* Texas A&M University-Kingsville
+* National Museum of Natural History, Smithsonian Institution
+* Smithsonian Environmental Research Center, Smithsonian Institution
 
 As a certified instructor of The Carpentries, I teach and help teach foundational coding and data science skills to researchers (e.g. Excel, OpenRefine, SQL, R).

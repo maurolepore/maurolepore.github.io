@@ -1,0 +1,11 @@
+### Industry knowledge
+
+Software engineering, quantitative research, statistics, teaching.
+
+### Tools & technologies
+
+* R for data science (e.g. tidyverse packages, rmarkdown, shiny), Q&A (e.g. testthat), and software engineering (e.g. usethis, rlang, devtools, roxygen2), using both functional programming and object-oriented (OOP) programming (e.g. S3)
+* Bash and Git for version control
+* GitHub for collaboration and project management (e.g. scrum, kanban)
+* TravisCI for continuous integration, and for automatically building and deploying websites and R packages
+
