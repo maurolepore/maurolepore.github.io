@@ -40,6 +40,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Fluent English and Spanish.
 
+## PROJECTS
+
+```{r, child="projects.Rmd"}
+```
+
 ## DATA SCIENCE COURSES
 
 ```{r, child="courses-ds.Rmd"}
