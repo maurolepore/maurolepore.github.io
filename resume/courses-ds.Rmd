@@ -1,26 +1,82 @@
-(Registration documents https://goo.gl/7H9XWZ)
+### What they forgot to teach you about R
 
-* July 12 & 19, 2016. Statistical computing using R, Smithsonian Tropical Research Institute, Panama (by Justin Touchon, Assistant Professor, Vassar College).
-* February 13-14, 2014. Software carpentry bootcamp for ecologists and evolutionary biologists, The Centre for Ecosystem Science, University of New South Wales, Sydney, Australia.
-* November 24-26, 2014. Advanced R, Centre for Applications in Natural Resource Mathematics, The University of Queensland, Australia (by Bill Venables, CSIRO).
-* November 04-08, 2013. Introduction to R, Centre for Applications in Natural Resource Mathematics, Australia (by Assoc. Prof. Anthony J. Richardson (UQ) & Assoc. Prof. Dave Schoeman (USC)).
+RStudio, Inc.  
+2019-01  
+Certificate <https://i.imgur.com/AZhx1By.jpg>  
 
-Online
+### Introduction to Git for Data Science
 
-2013-2014. Coursera’s specialization in data science (https://goo.gl/e9Bcpn) including:
+DataCamp  
+2018-11  
+Certificate <http://bit.ly/2OkqfQD>  
 
-* The Data Scientist’s Toolbox.
-* R Programming.
-* Getting and Cleaning Data.
-* Exploratory Data Analysis.
-* Reproducible Research.
-* Statistical Inference.
-* Regression Models.
-* Practical Machine Learning.
-* Developing Data Products.
+### Python for R Users
 
-2013-2014. Other courses (Cousera)
+DataCamp  
+2018-11  
+Certificate <http://bit.ly/2U50iJZ>  
+
+### Introduction to Shell for Data Science
+
+DataCamp  
+2018-10  
+Certificate <http://bit.ly/2YkytNk>  
+
+### Writing Efficient R Code
+
+DataCamp  
+2018-10  
+Certificate <http://bit.ly/2Fm1W0w>  
+
+### Introduction to the Smithsonian Institution High Performance Cluster
+
+Smithsonian Institution  
+2018-06  
+Certificate <https://i.imgur.com/kDAe7cR.png>  
+
+### Building tidy tools
+
+RStudio, Inc.
+2018-05  
+Certificate <https://i.imgur.com/C6QSUWP.jpg>  
+
+### Statistical computing using R
+
+Smithsonian Tropical Research Institute, Panama City, Panama  
+2016-07  
+
+### Software carpentry bootcamp for ecologists and evolutionary biologists
+
+The Centre for Ecosystem Science, University of New South Wales, Sydney, Australia  
+2014-02  
+
+### Advanced R
+
+Centre for Applications in Natural Resource Mathematics, The University of Queensland, Australia  
+2014-11  
+
+### Introduction to R
+
+Centre for Applications in Natural Resource Mathematics, Australia  
+2013-11  
+
+### Other data science courses
+
+Coursera  
+2013 - 2014  
 
 * Computing for data analysis.
 * Coursera, statistics one.
 * Coursera, data analysis.
+
+Specialization in data science: 
+
+* The Data Scientist’s Toolbox
+* R Programming
+* Getting and Cleaning Data
+* Exploratory Data Analysis
+* Reproducible Research
+* Statistical Inference
+* Regression Models
+* Practical Machine Learning
+* Developing Data Products
