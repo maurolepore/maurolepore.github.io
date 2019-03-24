@@ -65,9 +65,9 @@ Centre for Applications in Natural Resource Mathematics, Australia
 Coursera  
 2013 - 2014  
 
-* Computing for data analysis.
-* Coursera, statistics one.
-* Coursera, data analysis.
+* Computing for data analysis
+* Statistics one
+* Data analysis
 
 Specialization in data science: 
 
