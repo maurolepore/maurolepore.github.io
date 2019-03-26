@@ -4,7 +4,7 @@
 ForestGEO  
 National Museum of Natural History, Smithsonian Institution, Washington DC, USA  
 
-My official title is "IT specialist - R-package developer". I implement software solutions to help researchers work in an efficient, transparent, and reproducible way. I develop new software (R packages) and update a legacy code base. I also teach data science skills (e.g. R, Git, GitHub) to researchers and students, and help them troubleshoot, both remotely and in person.
+My official title is "IT specialist - R-package developer". In practice, I build software, learn best practices in data science, and share ideas and resources with researchers and higher-education students to help them work in an efficient, transparent, and reproducible way. I spend most of my time building R packages or teaching R, Git, GitHub, sometimes in person but mostly remotely.
 
 ### Data science instructor
 

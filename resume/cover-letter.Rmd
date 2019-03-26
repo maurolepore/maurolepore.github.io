@@ -1,0 +1,108 @@
+---
+output: pdf_document
+---
+
+## Mauro Lepore
+
+```{r, child="headline.Rmd"}
+```
+
+```{r, child="contact.Rmd"}
+```
+
+
+---
+
+
+> You thrive on building trusted relationships and a deep understanding of your customers’ needs.
+
+weddings photography
+
+> You enjoy sharing insights and resources to help your customers get the greatest possible value from our products.
+
+today, I enjoy sharing insights and resources with the researchers and students I work for  ...
+
+Teaching and mentoring has been one of the most rewarding experiences  and I did it a lot.
+
+
+> You have prior experience in sales, 
+
+My experience in sales comes from photography
+
+> consulting, 
+
+I do consulting in my current job
+
+> or training fields, 
+
+I've been involved in training always, lifesaving, photography, research, teaching ,...
+
+> and feel at home in roles where you can offer value as both a teacher and a problem-solver.
+
+problem solving in photography, data science, software engineering
+
+> You are keenly interested in data science and statistics , 
+
+not only intersted but pationate practicioner, and learner
+
+> and have some direct experience in these areas. 
+
+My experience is direct, as a researcher and now as a consultant
+
+> While a background in R programming is ideal, you might also have worked in other data science programming environments such as Python, SAS, or SPSS.
+
+I have a background in programming
+
+> You are internally driven by curiosity and continuous learning . You have proven that you can be entrusted with big decisions, and strive to bring understanding and empathy to the entire team.
+
+I embrace continuous learning and believe that learning by doing works really well
+
+> You are humble, and play well with other people . You thrive in team settings, and exhibit excellent communication and collaboration skills.
+
+I am humble, learn from everyone, and the R community is teaching me a lot. I attended to runconferences where I collaborated really well, e.g. runconference
+
+> You can function effectively in a distributed team. This means you are reliable, you know when to ask for help, you invest in strong relationships with your colleagues, and you know yourself well enough to be accountable for your own self management .
+
+I have experience working remotely and work very well. I'm on slack with rOpenSci and I ask for help there and It's helping my work a lot
+
+
+
+
+
+
+
+I am very familiar with RStudio's products. I use the RStudio IDE and multiple packages by RStudio everyday. I'm also familiar with RStudio people, philosophy, events, and workshops. In fact, I am in debt. Funded by an RStudio diversity scholarship I attended rstudio::conf() 2019 and the workshop What They Forgot to Teach You About R. And with an academic discount from RStudio I attended the workshop Building Tidy Tools in 2018. In short, I would love to join RStudio to ensure your customers are wildly successful with your products.
+
+
+
+
+Dear Tonya Filz,
+
+
+
+I am ...
+
+I believe I have the skills and experience you need from a [Customer Success Representative](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZPJ1EPP3oDOq?trackingTag=community):
+
+* As a wedding photographer, learned to built trusted relationships and a deep understanding of my customers' needs. I also learned to be a good problem-solver in stressful conditions, and patient with difficult customers. And as a tourists photographer, who earned only commissions, I learned to value sales.
+
+TODO Teacher
+
+* During my PhD I discovered R, which was my only tool for statistics and all things data science. Eventually I became passionate about R programming, and RStudio products were largely responsible for my joy. 
+
+* I'm curious and keen to continuously learn better ways to do data science, and I'll be excited to work in humble, empathetic, and collaborative teams -- which in academia seem rare.
+
+* I look forward to working in a distributed team, as such teams are likely to attracts those who are the best, not just those who are willing to live in a given area. I am convinced I can function effectively that way. The last year of my PhD I worked from home to minimize distractions, and I accomplished the deepest, most productive work of my life.
+
+I hope my resume conveys the value I could bring to RStudio. And I look forward to meeting you and, regardless the outcome, to thanking you for how much value RStudio has already brought to my life.
+
+TODO. Heard that interviewing with RStudio can be very valuable in and on itself and I look forward to it.
+
+
+TOD VISAS
+
+Sincerely,
+
+Mauro Lepore  
+maurolepore@gmail.com  
++1 346 773 2738  
