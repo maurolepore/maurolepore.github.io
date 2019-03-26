@@ -6,7 +6,7 @@ National Museum of Natural History, Smithsonian Institution, Washington DC, USA
 
 My official title is "IT specialist - R-package developer". In practice, I build software, learn best practices in data science, and share ideas and resources with researchers and higher-education students to help them work in an efficient, transparent, and reproducible way. I spend most of my time building R packages or teaching R, Git, GitHub, sometimes in person but mostly remotely.
 
-### Data science instructor
+### Data science instructor (volunteer)
 
 The Carpentries  
 2018 - present  
@@ -15,4 +15,4 @@ The Carpentries
 * National Museum of Natural History, Smithsonian Institution
 * Smithsonian Environmental Research Center, Smithsonian Institution
 
-As a certified instructor of The Carpentries, I teach and help teach foundational coding and data science skills to researchers (e.g. Excel, OpenRefine, SQL, R).
+As a certified instructor of The Carpentries, I occasionally teach and help teach foundational coding and data science skills to researchers (e.g. Excel, OpenRefine, SQL, R).
