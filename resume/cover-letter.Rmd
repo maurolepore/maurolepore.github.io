@@ -2,145 +2,35 @@
 output: pdf_document
 ---
 
-## Mauro Lepore
-
-```{r, child="headline.Rmd"}
-```
+__Mauro Lepore__
 
 ```{r, child="contact.Rmd"}
 ```
 
+---
+
+__Tonya Filz__  
+Manager - Customer Success Team, RStudio  
 
 Dear Tonya Filz,
 
-Your open position for a [Customer Success Representative](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZPJ1EPP3oDOq) seems like an excellent opportunity for me to contribute to the growth of RStudio. Please consider my application.
+Your open position for a [Customer Success Representative](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZPJ1EPP3oDOq) seems like an excellent opportunity for me to contribute to the growth and profit of RStudio. RStudio products have helped in my own success, and I would love to multiply the effect by helping your customers be also wildly successful.
 
-I know what success with RStoduio looks like. RStudio's IDE, packages, and learning resources have helped me grow as a data scientist since 2013. RStudio has also supported me, and the Latin American community I represent, via a diversity scholarship to attend rstudio::conf() 2019. Now I am eager to multiply the effect, and I seem to have the skills you need for this positoin:
+Here is what you are looking for matches my skills and expertise:
 
+* I learned to build trusted relationships and a deep understanding of my customers' needs during the many years I worked as a wedding photographer. And I truly enjoy sharing insights and resources, particularly about RStudio products. I do it frequently in my job, as an instructor of The Carpentries, and as a member of the R community. 
 
+* I have several years of experience selling photography, two years of experience as an R  developer and consultant in my current job, and many accumulated year of experience as a trainer and teacher for learners from primary school to professional researchers. Also I have plenty experience as a problem-solver, first as a photographer, then as a researcher, and now as a package developer.
 
+* I am so keenly interested in statistics and data science that I hold a PhD in ecology, and now work as an R package developer and consultant, which also demonstrates that my background in R programming is strong.
 
+* I fully embrace the practice of continuous learning. I am most curious about data science, software engineering and human behavior. I read about one of these topics almost everyday.
 
-My experience in sales and dealing with customers, teaching, 
+* I learned a lot about being humble by going way beyond my comfort zone and feeling the impostor syndrome. This more clearly happened by living in different countries and by doing a PhD. I believe in continuous improvement, so I will always consider myself a "work in progress". I love team work and I look forward to collaborating with others regularly. I have greatly enjoyed rOpenSci's runconf 2018 and chirunconf 2019.
 
- building trusted relationships
- 
- teacher
- a problem-solver
- data science and statistics
- curiosity and continuous learning
- play well with other people
- self management
+* I am very effective working in a distributed team. Although I now work from an office, the people I interact with are almost always elsewhere. In fact, the last year of my PhD I worked from home and I accomplished the deepest, most productive work of my life. Yet I made time to read, exercise, eat healthy, and enjoy everyday life with my partner.
 
+Please find my resume attached. I would appreciate the opportunity to meet with you and further discuss how I can help your team meet its goals.
 
-
-
-. In this unique role, you will be responsible for growing revenue by educating customers about the array of benefits from our toolchain, many of which are new, evolving, and not necessarily well-known. As a trusted and responsive partner, you will help customers maximize the impact of their data science initiatives through the adoption, continuation, and expansion of RStudio products. At the same time, you will share valuable customer and end-user insights with engineering and data science colleagues to further evolve RStudio products and packages.
-
-
-
-
-
-
-References:
-
-ixpantia, jim hester, jeff allen, jenny
-nominee Kelly
-
-> RStudio has a mission to provide the most widely used open source and enterprise-ready professional software for the R statistical computing environment. These tools further the cause of equipping everyone, regardless of means, to participate in a global economy that increasingly rewards data literacy.
-
-
-
-
-> You thrive on building trusted relationships and a deep understanding of your customers’ needs.
-
-weddings photography
-
-> You enjoy sharing insights and resources to help your customers get the greatest possible value from our products.
-
-today, I enjoy sharing insights and resources with the researchers and students I work for  ...
-
-Teaching and mentoring has been one of the most rewarding experiences  and I did it a lot.
-
-
-> You have prior experience in sales, 
-
-My experience in sales comes from photography
-
-> consulting, 
-
-I do consulting in my current job
-
-> or training fields, 
-
-I've been involved in training always, lifesaving, photography, research, teaching ,...
-
-> and feel at home in roles where you can offer value as both a teacher and a problem-solver.
-
-problem solving in photography, data science, software engineering
-
-> You are keenly interested in data science and statistics , 
-
-not only intersted but pationate practicioner, and learner
-
-> and have some direct experience in these areas. 
-
-My experience is direct, as a researcher and now as a consultant
-
-> While a background in R programming is ideal, you might also have worked in other data science programming environments such as Python, SAS, or SPSS.
-
-I have a background in programming
-
-> You are internally driven by curiosity and continuous learning . You have proven that you can be entrusted with big decisions, and strive to bring understanding and empathy to the entire team.
-
-I embrace continuous learning and believe that learning by doing works really well
-
-> You are humble, and play well with other people . You thrive in team settings, and exhibit excellent communication and collaboration skills.
-
-I am humble, learn from everyone, and the R community is teaching me a lot. I attended to runconferences where I collaborated really well, e.g. runconference
-
-> You can function effectively in a distributed team. This means you are reliable, you know when to ask for help, you invest in strong relationships with your colleagues, and you know yourself well enough to be accountable for your own self management .
-
-I have experience working remotely and work very well. I'm on slack with rOpenSci and I ask for help there and It's helping my work a lot
-
-
-
-
-
-
-
-I am very familiar with RStudio's products. I use the RStudio IDE and multiple packages by RStudio everyday. I'm also familiar with RStudio people, philosophy, events, and workshops. In fact, I am in debt. Funded by an RStudio diversity scholarship I attended rstudio::conf() 2019 and the workshop What They Forgot to Teach You About R. And with an academic discount from RStudio I attended the workshop Building Tidy Tools in 2018. In short, I would love to join RStudio to ensure your customers are wildly successful with your products.
-
-
-
-
-Dear Tonya Filz,
-
-
-
-I am ...
-
-I believe I have the skills and experience you need from a [Customer Success Representative](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZPJ1EPP3oDOq?trackingTag=community):
-
-* As a wedding photographer, learned to built trusted relationships and a deep understanding of my customers' needs. I also learned to be a good problem-solver in stressful conditions, and patient with difficult customers. And as a tourists photographer, who earned only commissions, I learned to value sales.
-
-TODO Teacher
-
-* During my PhD I discovered R, which was my only tool for statistics and all things data science. Eventually I became passionate about R programming, and RStudio products were largely responsible for my joy. 
-
-* I'm curious and keen to continuously learn better ways to do data science, and I'll be excited to work in humble, empathetic, and collaborative teams -- which in academia seem rare.
-
-* I look forward to working in a distributed team, as such teams are likely to attracts those who are the best, not just those who are willing to live in a given area. I am convinced I can function effectively that way. The last year of my PhD I worked from home to minimize distractions, and I accomplished the deepest, most productive work of my life.
-
-I hope my resume conveys the value I could bring to RStudio. And I look forward to meeting you and, regardless the outcome, to thanking you for how much value RStudio has already brought to my life.
-
-TODO. Heard that interviewing with RStudio can be very valuable in and on itself and I look forward to it.
-
-
-TOD VISAS
-
-Sincerely,
-
+Sincerely,  
 Mauro Lepore  
-maurolepore@gmail.com  
-+1 346 773 2738  
