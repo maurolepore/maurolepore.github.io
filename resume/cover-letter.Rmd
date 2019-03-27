@@ -6,29 +6,31 @@ __Mauro Lepore__
 
 ```{r, child="contact.Rmd"}
 ```
+```{r, child="social.Rmd"}
+```
 
 ---
 
 __Tonya Filz__  
 Manager - Customer Success Team, RStudio  
 
-Dear Tonya Filz,
+Dear Tonya Filz and RStudio team,
 
-Your open position for a [Customer Success Representative](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZPJ1EPP3oDOq) seems like an excellent opportunity for me to contribute to the growth and profit of RStudio. RStudio products have helped in my own success, and I would love to multiply the effect by helping your customers be also wildly successful.
+Your open position for a [Customer Success Representative](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZPJ1EPP3oDOq) seems like an excellent opportunity for me to contribute to the growth and profit of RStudio. With your products, workshops, conferences, and a diversity scholarship you have greatly contributed to my own growth. Now I would love to multiply the effect and help your customers be also wildly successful.
 
-Here is what you are looking for matches my skills and expertise:
+What you are looking for seems to match well with my skills and expertise:
 
-* I learned to build trusted relationships and a deep understanding of my customers' needs during the many years I worked as a wedding photographer. And I truly enjoy sharing insights and resources, particularly about RStudio products. I do it frequently in my job, as an instructor of The Carpentries, and as a member of the R community. 
+* I learned to build trusted relationships and a deep understanding of my customers' needs during the many years I worked as a weddings photographer. My customers trusted I would do a good job at preserving one of the most important moments of their lives. And I truly enjoy sharing insights and resources, which I hope is clear from my long experience teaching at multiple levels. I particularly like sharing RStudio resources. I do it frequently in my job, as an instructor of The Carpentries, as a guest of weekly meetings organized by ixpantia (one of your customers), and as a member of the R community in general.
 
-* I have several years of experience selling photography, two years of experience as an R  developer and consultant in my current job, and many accumulated year of experience as a trainer and teacher for learners from primary school to professional researchers. Also I have plenty experience as a problem-solver, first as a photographer, then as a researcher, and now as a package developer.
+* I have several years of experience selling photography, two years of experience as an R developer and consultant, and many accumulated year of experience as a trainer and teacher for learners of all levels, from primary school to professional researchers. Also I have plenty experience as a problem-solver. I solved human, logistic, and technical problems as a photographer; I solved conceptual, statistical, and communication problems as a researcher; and now I solve programming and data science problems as a package developer and consultant.
 
-* I am so keenly interested in statistics and data science that I hold a PhD in ecology, and now work as an R package developer and consultant, which also demonstrates that my background in R programming is strong.
+* My interest in statistics and data science is profound. I heavily used statistics during my PhD and postdoctoral work in ecology, and I am interested in data science far beyond my paid work. I continuously engage in opportunities to grow my data science skills and network. For example (thanks to an academic discount and a diversity scholarship from RStudio), I have attended the workshops "Building Tidy Tools" (2018) and "What They Forgot" (2019) and the most recent RStudio conference (2019). I have also attended to multiple R-Ladies meetups, to LatinR in Argentina (2018), rOpenSci's runconf 2018, and, chirunconf 2019. And I contribute as an instructor and helper for The Carpentries, and as a guest of the weekly ixpantia meetups. This should also demonstrate that my background in R programming is strong.
 
-* I fully embrace the practice of continuous learning. I am most curious about data science, software engineering and human behavior. I read about one of these topics almost everyday.
+* I fully embrace continuous learning. I am most curious about data science, software engineering and human behavior. I read about one of these topics almost everyday.
 
-* I learned a lot about being humble by going way beyond my comfort zone and feeling the impostor syndrome. This more clearly happened by living in different countries and by doing a PhD. I believe in continuous improvement, so I will always consider myself a "work in progress". I love team work and I look forward to collaborating with others regularly. I have greatly enjoyed rOpenSci's runconf 2018 and chirunconf 2019.
+* Multiple times in life I have gone way beyond my comfort zone and felt like an impostor. This has been extremely humbling. Some clear examples include living in different countries, doing a PhD in a foreign language, and dramatically changing careers. I believe in continuous improvement, so I will always consider myself a "work in progress". I love team work and I look forward to collaborating with others regularly. The most powerful and gratifying experiences I have had working in teams and asking for help were during the many years I worked as a life guard  -- I know this is cliche, but also very true.
 
-* I am very effective working in a distributed team. Although I now work from an office, the people I interact with are almost always elsewhere. In fact, the last year of my PhD I worked from home and I accomplished the deepest, most productive work of my life. Yet I made time to read, exercise, eat healthy, and enjoy everyday life with my partner.
+* I am very effective working in a distributed team. Although I now work from an office, the people I interact with are almost always elsewhere. In fact, the deepest, most productive work  I do everyday is from my home, during the first hour of my day and before I go to the office.
 
 Please find my resume attached. I would appreciate the opportunity to meet with you and further discuss how I can help your team meet its goals.
 
