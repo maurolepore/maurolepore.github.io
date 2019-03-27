@@ -11,9 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Mauro Lepore
 
-```{r, child="headline.Rmd"}
-```
-
 ```{r, child="contact.Rmd"}
 ```
 
