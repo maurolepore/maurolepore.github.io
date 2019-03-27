@@ -17,6 +17,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, child="contact.Rmd"}
 ```
 
+```{r, child="summary.Rmd"}
+```
+
+
 ## EXPERIENCE
 
 ```{r, child="experience-ds.Rmd"}

@@ -11,7 +11,45 @@ output: pdf_document
 ```
 
 
----
+Dear Tonya Filz,
+
+Your open position for a [Customer Success Representative](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZPJ1EPP3oDOq) seems like an excellent opportunity for me to contribute to the growth of RStudio. Please consider my application.
+
+I know what success with RStoduio looks like. RStudio's IDE, packages, and learning resources have helped me grow as a data scientist since 2013. RStudio has also supported me, and the Latin American community I represent, via a diversity scholarship to attend rstudio::conf() 2019. Now I am eager to multiply the effect, and I seem to have the skills you need for this positoin:
+
+
+
+
+
+My experience in sales and dealing with customers, teaching, 
+
+ building trusted relationships
+ 
+ teacher
+ a problem-solver
+ data science and statistics
+ curiosity and continuous learning
+ play well with other people
+ self management
+
+
+
+
+. In this unique role, you will be responsible for growing revenue by educating customers about the array of benefits from our toolchain, many of which are new, evolving, and not necessarily well-known. As a trusted and responsive partner, you will help customers maximize the impact of their data science initiatives through the adoption, continuation, and expansion of RStudio products. At the same time, you will share valuable customer and end-user insights with engineering and data science colleagues to further evolve RStudio products and packages.
+
+
+
+
+
+
+References:
+
+ixpantia, jim hester, jeff allen, jenny
+nominee Kelly
+
+> RStudio has a mission to provide the most widely used open source and enterprise-ready professional software for the R statistical computing environment. These tools further the cause of equipping everyone, regardless of means, to participate in a global economy that increasingly rewards data literacy.
+
+
 
 
 > You thrive on building trusted relationships and a deep understanding of your customers’ needs.
