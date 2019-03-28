@@ -12,26 +12,25 @@ __Mauro Lepore__
 ---
 
 Dear Tonya Filz and RStudio team,
- 
+
 Your open position for a Customer Success Representative seems like an excellent opportunity for me to contribute to the growth and profit of RStudio. You have greatly contributed to my own growth. Now I would love to multiply the effect and help your customers be also wildly successful.
 
 What you are looking for seems to match well with my skills and expertise:
 
-* I have several years of experience selling photography, two years of ongoing experience as an R package developer and consultant, and many accumulated year of experience as a trainer and teacher for learners of all levels, from primary school to professional researchers. I truly enjoy sharing insights and resources, particularly about RStudio products. I do it frequently in my job, as an instructor of The Carpentries, as a guest of weekly meetings organized by ixpantia (one of your customers), and as a member of the R community in general.
+* I have several years of experience selling photography, two years of ongoing experience as an R package developer and consultant, and many years of experience as a trainer and teacher for learners of all levels, from primary school to professional researchers. I truly enjoy sharing insights and resources, particularly about RStudio products. I do it frequently in my job, as an instructor of The Carpentries, as a guest of weekly meetings hosted by ixpantia (one of your customers), and as a member of the R community in general.
 
-* I also I have plenty experience as a problem-solver. I solved human, logistic, and technical problems as a photographer; I solved conceptual, statistical, and communication problems as a researcher; and I now solve programming and data science problems as a software developer and consultant.
+* I also have plenty experience as a problem-solver. I solved human, logistic, and technical problems as a photographer; I solved conceptual, statistical, and communication problems as a researcher; and I now solve programming and data science problems as an R programmer and consultant.
 
-* I learned to build trusted relationships and a deep understanding of my customers’ needs during the many years I worked as a wedding photographer. It takes a lot of trust for a couple to decide who will preserve the memories of one of the most important moments of their lives. 
+* I learned to build trusted relationships and a deep understanding of my customers' needs during the many years I worked as a wedding photographer. It takes a lot of trust for a couple to decide who will preserve the memories of one of the most important moments of their lives. 
 
-* I have used statistics heavily during my PhD and postdoctoral work in ecology, and I am interested in data science far beyond my paid work. I continuously engage in opportunities to grow my data science skills and network. For example (thanks to an academic discount and a diversity scholarship from RStudio), I have attended the workshops “Building Tidy Tools” (2018) and “What They Forgot” (2019) and the most recent RStudio conference (2019). I have also attended multiple R-Ladies meetups, LatinR in Buenos Aires (2018), rOpenSci’s runconf in Seattle (2018), and chirunconf in Chicago (2019). 
+* I have used statistics during my PhD and postdoctoral work in ecology, and I am interested in data science far beyond my paid work. I continuously engage in opportunities to grow my data science skills and network. Thanks to an academic discount and a diversity scholarship from RStudio, I have attended the workshop "Building Tidy Tools" in San Francisco, and the RStudio conference and workshop "What They Forgot" in Austin. I have also attended R-Ladies meetups in Washington DC and Buenos Aires, LatinR in Buenos Aires, rOpenSci's runconf in Seattle, and chirunconf in Chicago.
 
-* I love working in teams and I look forward to collaborating with others regularly.  I am also experienced and  effective working in a distributed team. Although I now work mostly from an office, the people I interact with are almost always elsewhere. In fact, the deepest, most productive work I do everyday is from my home, during the first hour of my day and before I go to the office.
+* At the unconferences I worked with teams in person and it went really well. I am also experienced and effective working in distributed teams. As a PhD student, a postdoctoral researcher, R developer and consultant I have always been responsible for managing my own time and duties, and sometimes I worked from home continuously during several months. Although I now work mostly from an office, the people I interact with are almost always elsewhere.
 
-* Because I am curious and embrace continuous learning, I routinely read about data science,  software engineering, and advances in RStudio products. I am also interested in human behaviour. I enjoy learning new ways to improve my health, work, and relationships. My curiosity has taken me out of my comfort zone. I have lived in multiple countries, done a PhD in a foreign language, and developed new careers. Many times I felt like an impostor but it was worthwhile; the hard lessons were extremely instructive and humbling.
+* Because I am curious and embrace continuous learning, I routinely read about data science,  software engineering, and advances in RStudio products. I am also interested in human behavior. I enjoy learning new ways to improve my health, work, and relationships. My curiosity has taken me out of my comfort zone. I have lived in multiple countries, done a PhD in a foreign language, and developed new careers. Many times I felt like an impostor but it was worthwhile. The hard lessons were extremely instructive and humbling.
 
 Please find my resume attached. I would appreciate the opportunity to meet with you and further discuss how I can help your team meet its goals.
 
 Sincerely,  
 Mauro Lepore  
-
 
