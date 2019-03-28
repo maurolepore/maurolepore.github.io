@@ -32,9 +32,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, child="experience-customer-oriented.Rmd"}
 ```
 
-```{r, child="experience-community-oriented.Rmd"}
-```
-
 ```{r, child="experience-outreach.Rmd"}
 ```
 

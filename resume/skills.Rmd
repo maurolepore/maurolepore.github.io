@@ -4,8 +4,8 @@ Computer software, higher education, data science, statistics, teaching, researc
 
 ### Tools & technologies
 
-* R programming for data science (e.g. tidyverse packages, rmarkdown, shiny), Q&A (e.g. testthat), and software engineering (e.g. usethis, rlang, devtools, roxygen2), using both functional programming and object-oriented (e.g. S3) paradigms
+* R programming for data science (e.g. tidyverse packages, rmarkdown, shiny) and software development (e.g. usethis, rlang, devtools, roxygen2, testthat)
 * Bash and Git for version control
 * GitHub for collaboration and project management
-* TravisCI for continuous integration, and for automatically building and deploying websites and R packages
+* TravisCI for continuous integration
 
