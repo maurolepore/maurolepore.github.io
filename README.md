@@ -43,14 +43,17 @@ support (<http://bit.ly/mauro-lepore>).
 
 #### Teaching
 
-  - August, 2018: [Instructor at The
-    Carpentries](https://kokbent.github.io/2018-09-29-tamu-kingsville/).
+I am a [Certified instructor of The
+Carpentries](http://bit.ly/mauro-lepore-carpentries-certificate), and
+contribute to [data science training at the Smithsonian
+Institution](https://datascience.si.edu/carpentries) and elsewhere:
 
-  - June, 2018: [Helper at the Carpentries
-    (NMNH)](https://smithsonianworkshops.github.io/2018-06-12-nmnh/).
-
-  - March, 2018: [Helper at the Carpentries
-    (SERC)](https://smithsonianworkshops.github.io/2018-03-07-serc/).
+  - August, 2018: [Texas A\&M
+    University-Kingsville](https://kokbent.github.io/2018-09-29-tamu-kingsville/).
+  - June, 2018: [National Museum of Natural History, Smithsonian
+    Institution](https://smithsonianworkshops.github.io/2018-06-12-nmnh/).
+  - March, 2018: [Smithsonian Environmental Research Center, Smithsonian
+    Institution](https://smithsonianworkshops.github.io/2018-03-07-serc/).
 
 #### Blogs:
 
@@ -111,6 +114,9 @@ Contributed to multiple, popular R-packages, e.g.:
     USA.
 
 ### Meetings
+
+  - March, 2019: [chirunconf](https://chirunconf.github.io/#team),
+    Chicago, USA.
 
   - January, 2019:[rstudio::conf](https://www.rstudio.com/conference/),
     Austin, USA.
