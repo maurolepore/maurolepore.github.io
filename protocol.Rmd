@@ -1,0 +1,47 @@
+---
+output: github_document
+---
+
+# Make human contact:
+
+TODO: Ask about R folks in Houston to:
+
+* Garret
+* Hadley
+* R users' groups leaders
+* rOpenSci
+* Carpentries
+* @JoshDaniellNZ
+
+# Search
+
+* Engines: general, science, education
+* Keep an eye on other places
+
+## Keyworkds
+
+### Language:
+
+(r, AND python) AND (research OR teach OR teaching OR science) AND (programmer OR software OR developer OR engineer OR analyst OR data scientist OR etl)
+
+(r AND python) AND ((data OR R package OR software OR ETL) AND (engineer OR developer OR programmer OR analyst OR scientist OR science OR research OR researcher OR teacher OR teaching OR lecturer OR professor OR instructor OR tutor))
+
+r
+python
+
+### Field
+
+research
+teaching
+science
+
+### Task
+
+programmer
+software
+developer
+engineer
+analyst
+data scientist
+ETL
+
