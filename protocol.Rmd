@@ -24,7 +24,7 @@ TODO: Ask about R folks in Houston to:
 
 (r, AND python) AND (research OR teach OR teaching OR science) AND (programmer OR software OR developer OR engineer OR analyst OR data scientist OR etl)
 
-(r AND python) AND ((data OR R package OR software OR ETL) AND (engineer OR developer OR programmer OR analyst OR scientist OR science OR research OR researcher OR teacher OR teaching OR lecturer OR professor OR instructor OR tutor))
+(r, AND python) AND ((data OR R package OR software OR ETL) AND (engineer OR developer OR programmer OR analyst OR scientist OR science OR research OR researcher OR teacher OR teaching OR lecturer OR professor OR instructor OR tutor))
 
 r
 python

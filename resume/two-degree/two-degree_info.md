@@ -1,0 +1,50 @@
+
+<https://www.r-users.com/jobs/software-developer-with-r/>
+
+A global, independent think tank on the integration of long-term and
+climate-related objectives and risks into financial market metrics,
+processes and regulation. Since it was set up in 2012 with the mission
+to align financial markets with climate goals, the 2° Investing
+Initiative (2°ii) has become a pioneering think tank – with offices in
+Berlin, Paris, London and New York – on the integration of long-term
+risks and policy objectives into financial markets and regulatory
+frameworks. 2°ii developed the first scenario analysis tool linking
+financial portfolios to public policy objectives – specifically the 2°C
+climate goal – which is now applied to over $10 trillion assets under
+management across more than 1,000 financial institutions, as well as a
+number of financial supervisors. 2°ii co-designed the first
+climate-related financial regulation in the world (Art. 173 of the
+French Energy Transition Law). A core principle of its mission is to
+reduce the transaction costs across companies, financial institutions
+and policymakers, while guiding financial markets towards the long-term
+future. Current research includes development of climate alignment tools
+for banks, market outlook reports and enhancement of existing,
+analytical methods as well as a sustainability-ready, open-source
+robo-adviser. 2°ii has a multi-stakeholder and independent governance
+framework designed to ensure the intellectual integrity of its work and
+its independence.
+
+# Who we are looking for
+
+  - A R Coder/Software Developer who is passionate about having a
+    meaningful, global impact
+
+  - Genuine interest to improve our code/software infrastructure and
+    related services
+
+  - Experience in library creation including application of continuous
+    integration services to ensure code quality
+
+  - Strong R skills (3+ years’ experience in software development with R
+    in a working context), proficiency with git
+
+  - A pro-active problem-solver with strong analytical skills and a good
+    sense for code quality
+
+  - Further technical expertise, such as web development, data
+    visualisation, GUI development (e.g. with RShiny) as well as
+    experience with SQL and Docker is very welcome
+
+  - Expertise in finance is a plus
+
+  - Fluent English

@@ -1,0 +1,94 @@
+---
+output: github_document
+---
+
+https://www.r-users.com/jobs/software-developer-with-r/
+
+A global, independent think tank on the integration of long-term and climate-related objectives and risks into financial market metrics, processes and regulation.
+
+Since it was set up in 2012 with the mission to align financial markets with climate goals, the 2° Investing Initiative (2°ii) has become a pioneering think tank – with offices in Berlin, Paris, London and New York – on the integration of long-term risks and policy objectives into financial markets and regulatory frameworks. 2°ii developed the first scenario analysis tool linking financial portfolios to public policy objectives – specifically the 2°C climate goal – which is now applied to over $10 trillion assets under management across more than 1,000 financial institutions, as well as a number of financial supervisors. 2°ii co-designed the first climate-related financial regulation in the world (Art. 173 of the French Energy Transition Law). A core principle of its mission is to reduce the transaction costs across companies, financial institutions and policymakers, while guiding financial markets towards the long-term future.
+
+Current research includes development of climate alignment tools for banks, market outlook reports and enhancement of existing, analytical methods as well as a sustainability-ready, open-source robo-adviser. 2°ii has a multi-stakeholder and independent governance framework designed to ensure the intellectual integrity of its work and its independence.
+
+
+
+
+
+# Who we are looking for
+
+I'm intersted in your open position for a software developer with R (https://www.r-users.com/jobs/software-developer-with-r/).
+
+Information:
+
+* LinkedIn: https://www.linkedin.com/in/mauro-lepore/
+* Contributions to the R community: http://bit.ly/mauro-lepore-about
+* Main work-project: https://forestgeo.github.io/fgeo/
+* Bio: http://bit.ly/mauro-lepore
+
+Here is how my skills match what you are looking for:
+
+> A R Coder/Software Developer who is passionate about having a meaningful, global impact
+
+* I'm an R software developer at ForestGEO, a global network of scientists working to understand and predict forest dynamics in an era of rapidly changing landscapes and climate (https://forestgeo.si.edu/mauro-lepore).
+
+* Here are two examples of my passion for having a meaningful, global impact:
+
+    * [PhD thesis](http://bit.ly/mauro-lepore-phd-thesis) including a chapter (Chapter 2) exploring the potential of a coral reef system to constitute a refuge for corals from global warming.
+    
+    * [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cobi.12997) explaining how to use historical data to make better conservation desicions.
+
+> Genuine interest to improve our code/software infrastructure and related services
+
+* Link to current position? Bio?
+* http://bit.ly/mauro-lepore-fgeo-performance-2018
+
+* I would love to improving your code ans software infrastructure. In my current position I have improved a legacy code base and transforme it from a collection of R functions to a collection of R packages sensu stricto  and associated websites using best practice for package development
+
+* Improving legacy code
+* BUilding R packages with best practices
+* Built website
+* Integrated all on TravisCI
+* Learned best practices through lots of workshops, and books, ...
+
+> Experience in library creation including application of continuous integration services to ensure code quality
+
+
+
+
+Created (xxx add links to all of these):
+
+* multiple packages
+* a meta-package (similar to tidyverse) to install and load all other packages with a single R commend
+* full documentation
+* websites
+* TravisCI 
+* Drat repository (CRAN-like)
+
+> Strong R skills (3+ years’ experience in software development with R in a working context), proficiency with git
+
+* I've developing R software since ~2013. Used it during my PhD, then postdoc, now in current job
+* Proficient with git, use it everyday. Done many courses. It's central part of my work
+
+> A pro-active problem-solver with strong analytical skills and a good sense for code quality
+
+* I'm proactive problem solver: I work 100% independent and trouble shoot my work and that of others
+* I have a good sense for code quality. I follow best practices
+
+    * R: building tidy tools, tidyverse style guide, WTF workshop
+    * Improving legacy code: Refactoring
+    * General coding books: Code complete, Pragmatic Programmer, Clean Code, Clean Coder.
+    
+> Further technical expertise, such as web development, data visualisation, GUI development (e.g. with RShiny) as well as experience with SQL and Docker is very welcome
+
+* For each package I built a website, automatically.
+* Strong visualization experience. Built a package, fgeo.plot, on top of ggplot2
+* Built dashoboards with RShiny
+* Tought SQL
+
+> Expertise in finance is a plus
+
+No experience in finance but interested.
+
+> Fluent English
+
+Lived in English speaking countries for almost 10 years now. I did a PhD in Australia and now work in the US.
