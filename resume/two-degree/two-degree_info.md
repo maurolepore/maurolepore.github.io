@@ -100,6 +100,11 @@ package’s website.
 > Strong R skills (3+ years’ experience in software development with R
 > in a working context), proficiency with git
 
+I am a profficient and epxerienced
+[Git](https://www.dropbox.com/s/yeti01v9mcj9s71/2018-11-05_git.pdf?dl=0)
+user, with over 5500 git [commits pushed to
+GitHub](https://github.com/maurolepore) in the last year alone.
+
 Althought I officially became an R software develper less than three
 years ago, I have informally worked as such for longer, and my total
 experience with R dates back to 5 years ago. R was the only tool I used
@@ -158,3 +163,5 @@ More information:
   - Contributions to the R community: <http://bit.ly/mauro-lepore-about>
   - Main work-project: <https://forestgeo.github.io/fgeo/>
   - Bio: <http://bit.ly/mauro-lepore>
+
+XXX GIT

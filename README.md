@@ -12,11 +12,18 @@ Mauro Lepore
 I am an ecologist turned software developer and data science consultant.
 I now work for a network of forest ecologists, building R packages and
 passionately sharing resources with the researchers and students I
-support (<http://bit.ly/mauro-lepore>).
+support ([bio](http://bit.ly/mauro-lepore)).
 
 ### Contributions to open software and reproducible research
 
 #### Meetups
+
+  - Since April 2019: Attending biweekly meetups of [instructors for The
+    Carpentries at the
+    Smithsonian](https://datascience.si.edu/carpentries).
+
+  - February - June 2019: Weekly [ixpantia
+    masterclass](https://www.ixpantia.com/en/).
 
   - October, 2018: [Speaker at meetup GitHub for
     projects](http://bit.ly/2pOrRXo), Library of the National Museum of
@@ -48,10 +55,15 @@ Carpentries](http://bit.ly/mauro-lepore-carpentries-certificate), and
 contribute to [data science training at the Smithsonian
 Institution](https://datascience.si.edu/carpentries) and elsewhere:
 
+  - May, 2019: [Smithsonian Spring 2019
+    Edition](https://smithsonianworkshops.github.io/2019-05-16-castle/)
+
   - August, 2018: [Texas A\&M
     University-Kingsville](https://kokbent.github.io/2018-09-29-tamu-kingsville/).
+
   - June, 2018: [National Museum of Natural History, Smithsonian
     Institution](https://smithsonianworkshops.github.io/2018-06-12-nmnh/).
+
   - March, 2018: [Smithsonian Environmental Research Center, Smithsonian
     Institution](https://smithsonianworkshops.github.io/2018-03-07-serc/).
 
@@ -69,32 +81,30 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
 
 #### Other Contributions:
 
-  - Contributed to the book Advanced R by Hadley Wickham
-    (<https://adv-r.hadley.nz/introduction.html#intro-ack>)
+  - Contributed to the book [Advanced R by Hadley
+    Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack)
 
-Contributed to multiple, popular R-packages, e.g.:
-
-  - **dplyr** <https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/>.
-  - **usethis**
-    <https://www.tidyverse.org/articles/2018/02/usethis-1-3-0/>.
-  - **tidyr** <https://www.tidyverse.org/articles/2018/02/tidyr-0-8-0/>
-  - **pkgdown**
-    <https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/>
+  - Contributed to multiple, popular R-packages, e.g.:
+    [**dplyr**](https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/),
+    [**usethis**](https://www.tidyverse.org/articles/2018/02/usethis-1-3-0/),
+    [**tidyr**](https://www.tidyverse.org/articles/2018/02/tidyr-0-8-0/),
+    [**pkgdown**](https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/).
 
 ### Training
 
   - January, 2019: [What they forgot to teach you about R aka Getting
     s\*%\! done in R](https://whattheyforgot.org/) - 2 days, by [Jenny
-    Bryan](https://jennybryan.org/about/). Austin, USA.
+    Bryan](https://jennybryan.org/about/) and [Jim
+    Hester](https://www.linkedin.com/in/jim-hester/). Austin, USA.
 
   - September, 2018: [Writing R functions for fun and
     profit](https://www.meetup.com/rladies-buenos-aires/events/253987224/)
-    - 2h, by Jenny Bryan\](<https://jennybryan.org/about/>). Buenos
-    Aires, Argentina.
+    - 2h, by [Jenny Bryan](https://jennybryan.org/about/). Buenos Aires,
+    Argentina.
 
   - September, 2018: [How to repeat yourself with
-    purrr](http://latin-r.com/schedule/#session-3) - half day, by Jenny
-    Bryan\](<https://jennybryan.org/about/>). Buenos Aires, Argentina.
+    purrr](http://latin-r.com/schedule/#session-3) - half day, by [Jenny
+    Bryan](https://jennybryan.org/about/). Buenos Aires, Argentina.
 
   - September, 2018: [Visualización estática e interactiva de datos
     usando ggplot2 y plotly](http://latin-r.com/schedule/#session-1) -
