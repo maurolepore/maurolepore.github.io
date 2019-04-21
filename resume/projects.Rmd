@@ -3,11 +3,7 @@
 2019-01 - present  
 URL <https://CRAN.R-project.org/package=tor>  
 
-The goal of tor (to-R) is to help you to import multiple files from a single directory at once, and to do so as quickly, flexibly, and simply as possible.
-
 ### fgeo: Analyze Forest Diversity and Dynamics
 
 2017-03 - present  
 URL <https://forestgeo.github.io/fgeo/>  
-
-'fgeo' is a collection of R packages to analyze forest diversity and dynamics. It includes packages to manipulate and plot ForestGEO data, and to do common analyses including abundance, demography, and species-habitats associations.

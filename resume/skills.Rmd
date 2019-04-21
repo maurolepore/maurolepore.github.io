@@ -1,9 +1,9 @@
 ### Tools & technologies
 
-* R programming for data science (e.g. tidyverse packages, rmarkdown, shiny) and software development (e.g. usethis, rlang, devtools, roxygen2, testthat)
-* Bash and Git for version control
+* __R programming__ for data science (e.g. tidyverse packages, rmarkdown, shiny) and __software development__ (e.g. usethis, rlang, devtools, roxygen2, testthat)
+* Bash and __Git__ for version control
 * GitHub for collaboration and project management
-* TravisCI for continuous integration
+* TravisCI for __continuous integration__
 
 ### Industry knowledge
 
