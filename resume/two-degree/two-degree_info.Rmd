@@ -2,6 +2,67 @@
 output: github_document
 ---
 
+Dear fellow fighters of climate change,
+
+I'm very interested in your [open position for a software developer with R](https://www.r-users.com/jobs/software-developer-with-r/). I would love to use my experience to help you fight climate change.
+
+Here is how my skills match what you are looking for:
+
+> A R Coder/Software Developer who is passionate about having a meaningful, global impact
+
+* __I am an R software developer__. I work at the [Smithsonian Institution](https://forestgeo.si.edu) for a global network of researchers who aim to better __understand and predict forest dynamics in the face of climate__. (Unfortunately, the available funds will run out soon so I am seeking new opportunities.)
+
+* My passion for having a meaningful, global impact is demonstrated by one chapter of my __[PhD thesis](http://bit.ly/mauro-lepore-phd-thesis)__ (Chapter 2) exploring the potential of a coral reef system to constitute a __refuge for corals from global warming__. Also by __[this paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cobi.12997)__ exploring how __historical data can help us make better conservation decisions__.
+
+> Genuine interest to improve our code/software infrastructure and related services
+
+* In my current role, I developed __experience improving legacy code and related software infrastructure and services__. I would love to use my skills to help the 2° Investing Initiative align financial markets with climate goals. For example, I __created a [GitHub organization](https://github.com/forestgeo)__ with multiple repositories, transformed legacy code from [a collection of functions](http://ctfs.si.edu/Public/CTFSRPackage/) to __[a collection of R packages](https://forestgeo.github.io/fgeo/)__ _sensu stricto_. I also created a __[blog](https://fgeo.netlify.com)__, an internal __slack work space__, __tutorials__ (see [Tutorials tab](https://forestgeo.github.io/fgeo/)), and a __custom [CRAN-like repository](https://forestgeo.github.io/drat/)__ to manage and serve the release of  internal packages. 
+
+> Experience in library creation including application of continuous integration services to ensure code quality
+
+I have two years of __experience as a developer of [R libraries](https://forestgeo.github.io/fgeo/index.html#installation)__, using best practices including the application of [continuous integration](https://travis-ci.org/forestgeo). For example, for my current employer I built four main packages (a.k.a. libraries) and a meta-package that installs them all with a single R command ([fgeo](https://forestgeo.github.io/fgeo)). They are well tested (e.g. [here](https://coveralls.io/github/forestgeo/fgeo.tool), and [here](https://coveralls.io/github/forestgeo/fgeo.analyze)), and connected to a __[continuous integration service](https://travis-ci.org/forestge)__ so that every change __automatically builds, checks and deploys each packages and its associated website.__
+
+> Strong R skills (3+ years’ experience in software development with R in a working context), proficiency with git
+
+I am a __proficient with [Git](https://www.dropbox.com/s/yeti01v9mcj9s71/2018-11-05_git.pdf?dl=0)__; over the past year I have __[pushed to GitHub over 5500 commits](https://github.com/maurolepore)__.
+
+My total practical experience as an R software developer is about three years. However, the first year in my current role was somewhat informal and I officially earned the title "R package developer" about two years ago. Overall, I have about __five years of experience working with R almost every day__. Beyond my paid work, I regularly [contribute to the R community](http://bit.ly/mauro-lepore-about).
+
+> A pro-active problem-solver with strong analytical skills and a good sense for code quality
+
+* I __solve problems pro-actively__ every day. In my current role I am the only software developer. I find solutions __independently__, often in books, blogs or by asking other R developers online (I reach excellent R developers at the private slack work space of [rOpenSci](https://ropensci.org/)).
+
+* I developed strong __analytical skills during my PhD and postdoc__.
+
+* I developed a good sense for __code quality via workshops__ (e.g. [Building Tidy Tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/)), and __books__ (e.g. [R packages](http://r-pkgs.had.co.nz/), [The pragmatic programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer), [Code complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670), [Refactoring](https://martinfowler.com/books/refactoring.html), etc.).
+
+> Further technical expertise, such as web development, data visualisation, GUI development (e.g. with RShiny) as well as experience with SQL and Docker is very welcome
+
+I have __experience building__ [__websites__ for R packages](https://forestgeo.github.io/fgeo/)), [blogs](https://fgeo.netlify.com), [__RShiny apps__](https://maurolepore.shinyapps.io/plottrait/). I also have some experience with __SQL queries__.
+
+> Fluent English
+
+* I am very __fluent__ in English. __Lived in English speaking countries for almost 10 years__ now. I did a PhD in Australia and now work in the US.
+
+I look forward to meeting you soon. I would love learn more about your mission and further discuss how I can contribute to it. I am happy to negotiate the earliest possible starting date.
+
+Best regards,  
+Mauro
+
+maurolepore@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/mauro-lepore/)  
+[Recent contributions to the R community](http://bit.ly/mauro-lepore-about)  
+
+
+
+---
+
+Send your CV and cover letter in English indicating your earliest possible start date to: jobs@2degrees-investing.org
+
+
+We are committed to building a diverse team and encourage applications from female and minority candidates.
+
+
 https://www.r-users.com/jobs/software-developer-with-r/
 
 A global, independent think tank on the integration of long-term and climate-related objectives and risks into financial market metrics, processes and regulation.
@@ -11,69 +72,6 @@ Since it was set up in 2012 with the mission to align financial markets with cli
 Current research includes development of climate alignment tools for banks, market outlook reports and enhancement of existing, analytical methods as well as a sustainability-ready, open-source robo-adviser. 2°ii has a multi-stakeholder and independent governance framework designed to ensure the intellectual integrity of its work and its independence.
 
 
-
-mission to align financial markets with climate goals
-
-# Who we are looking for
-
-I'm intersted in your open position for a software developer with R (https://www.r-users.com/jobs/software-developer-with-r/).
-
-Here is how my skills match what you are looking for:
-
-> A R Coder/Software Developer who is passionate about having a meaningful, global impact
-
-* I'm an R software developer at ForestGEO, a global network of scientists working to understand and predict forest dynamics in an era of rapidly changing landscapes and climate (https://forestgeo.si.edu/mauro-lepore).
-
-* These are two examples of my passion for having a meaningful, global impact:
-
-    * [PhD thesis](http://bit.ly/mauro-lepore-phd-thesis) including a chapter (Chapter 2) exploring the potential of a coral reef system to constitute a refuge for corals from global warming.
-    
-    * [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cobi.12997) explaining how to use historical data to make better conservation desicions.
-
-> Genuine interest to improve our code/software infrastructure and related services
-
-I have improved the code and related software infrastructure and services of the organization I worked for. I loved the task and [was highly successful](http://bit.ly/mauro-lepore-fgeo-performance-2018). Now I would love to use my experience to help the 2 Degree Investing Initiative align financial markets with climate goals.
-
-For example, I created a [GitHub organization](https://github.com/forestgeo) with multiple repositores, transformed legacy code from [a collection of functions](http://ctfs.si.edu/Public/CTFSRPackage/) to [a collection of R packages](https://forestgeo.github.io/fgeo/) _sensu stricto_, following best practices, including [full documentation](https://forestgeo.github.io/fgeo/articles/siteonly/reference.html), tests and [continous integration](https://travis-ci.org/forestgeo). I also created a [blog](https://fgeo.netlify.com), an internal slack workspace, interactive tutorials (see [Tutorials tab](https://forestgeo.github.io/fgeo/)), a custom [CRAN-like repository](https://forestgeo.github.io/drat/) to manage and serve the release of  internal packages, and more. 
-
-> Experience in library creation including application of continuous integration services to ensure code quality
-
-I have two years of experience working full time and specifically as a developer of [R libraries](https://forestgeo.github.io/fgeo/index.html#installation), using best practices including the aplication of [continuous integration](https://travis-ci.org/forestgeo). 
-
-For example, for my current exmployer I built four main packages (a.k.a. libraries) and a meta-package that installs them all with a single R command ([fgeo](https://forestgeo.github.io/fgeo)). They are well tested (e.g. [here](https://coveralls.io/github/forestgeo/fgeo.tool), and [here](https://coveralls.io/github/forestgeo/fgeo.analyze)), and configured with continuous integration, for every change to automatically trigger all tests as well as the deployment of each package's website.
-
-> Strong R skills (3+ years’ experience in software development with R in a working context), proficiency with git
-
-I am a profficient and epxerienced [Git](https://www.dropbox.com/s/yeti01v9mcj9s71/2018-11-05_git.pdf?dl=0) user, with over 5500 git [commits pushed to GitHub](https://github.com/maurolepore) in the last year alone.
-
-Althought I officially became an R software develper less than three years ago, I have informally worked as such for longer, and my total experience with R dates back to 5 years ago. R was the only tool I used for all the analyses I did during my PhD and postdoc. Also, because [I am an active contributor to the R community](http://bit.ly/mauro-lepore-about), I use R beyond my paid work -- meaning that my todal experience is greater than what my official work hours suggest.
-
-> A pro-active problem-solver with strong analytical skills and a good sense for code quality
-
-I continuously solve problems, as I work independently with no coleague or mentor. Thus I find solutions creatively and by asking some of the best R developesr in the world. I was invited to [runconf 2018 in Seattle](https://unconf18.ropensci.org/#participants), and that gave me access to the private slack workspace of [rOpenSci](https://ropensci.org/).
-
-During my PhD and postdoc and 
-
-I developed strong analytical skills during my PhD and postdoc.
-
-following best practices including [style guides](https://style.tidyverse.org/) and [design principles](https://principles.tidyverse.org/)
-
-I developed a good sense for code quality via workshops (e.g. [Building Tidy Tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/)), and books, [specific to R](http://r-pkgs.had.co.nz/) and beyond (e.g. [The pragmatic programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer), [Code complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670), [Refactoring](https://martinfowler.com/books/refactoring.html), etc.)
-
-> Further technical expertise, such as web development, data visualisation, GUI development (e.g. with RShiny) as well as experience with SQL and Docker is very welcome
-
-I have experience building websites (e.g. [fgeo website](https://forestgeo.github.io/fgeo/)), [blogs](https://fgeo.netlify.com), [RShiny apps](https://maurolepore.shinyapps.io/plottrait/), and [teaching basic SQL](https://kokbent.github.io/2018-09-29-tamu-kingsville/).
-
-> Fluent English
-
-I am very fluent in English. Lived in English speaking countries for almost 10 years now. I did a PhD in Australia and now work in the US.
-
-More information:
-
-* LinkedIn: https://www.linkedin.com/in/mauro-lepore/
-* Contributions to the R community: http://bit.ly/mauro-lepore-about
-* Main work-project: https://forestgeo.github.io/fgeo/
-* Bio: http://bit.ly/mauro-lepore
+Interested in changing finance to fight climate change? Please send your CV and cover letter in English indicating your earliest possible start date to: jobs@2degrees-investing.org   We are committed to building a diverse team and encourage applications from female and minority candidates.
 
 
-XXX GIT
