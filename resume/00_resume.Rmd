@@ -17,7 +17,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, child="summary.Rmd"}
 ```
 
-
 ## EXPERIENCE
 
 ```{r, child="experience-ds.Rmd"}
@@ -29,20 +28,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, child="experience-teaching.Rmd"}
 ```
 
-```{r, child="experience-customer-oriented.Rmd"}
-```
-
-```{r, child="experience-outreach.Rmd"}
-```
-
 ## EDUCATION
 
 ```{r, child="education.Rmd"}
-```
-
-## CERTIFICATIONS
-
-```{r, child="licenses-certifications.Rmd"}
 ```
 
 ## SKILLS

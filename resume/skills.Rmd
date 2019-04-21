@@ -1,7 +1,3 @@
-### Industry knowledge
-
-Computer software, higher education, data science, statistics, teaching, research.
-
 ### Tools & technologies
 
 * R programming for data science (e.g. tidyverse packages, rmarkdown, shiny) and software development (e.g. usethis, rlang, devtools, roxygen2, testthat)
@@ -9,3 +5,6 @@ Computer software, higher education, data science, statistics, teaching, researc
 * GitHub for collaboration and project management
 * TravisCI for continuous integration
 
+### Industry knowledge
+
+Computer software, higher education, data science, statistics, teaching, research.

@@ -1,18 +1,14 @@
-### Software engineer, data science consultant
+### R software developer
 
 ForestGEO  
 2017-03 - present  
 National Museum of Natural History, Smithsonian Institution, Washington DC, USA  
 
-My official title is "IT specialist - R-package developer". In practice, I build software and share resources with researchers and higher-education students to help them work in an efficient, transparent, and reproducible way. I spend most of my time building R packages or teaching R, Git, and GitHub, sometimes in person but mostly remotely.
+__I build R packages__ and related software infrastructure (websites, Shiny applications, documentation, tutorials, etc.) to help researchers better understand and predict the dynamics of the world's forests in the face of climate change. The technologies I use the most include __R, Git, GitHub, and continuous integration with TravisCI__.
 
-### Data science instructor (volunteer)
+### Data science instructor
 
 The Carpentries  
 2018 - present  
 
-* Texas A&M University-Kingsville
-* National Museum of Natural History, Smithsonian Institution
-* Smithsonian Environmental Research Center, Smithsonian Institution
-
-As a certified instructor of The Carpentries, I occasionally teach and help teach foundational coding and data science skills to researchers (e.g. Excel, OpenRefine, SQL, R).
+As a certified instructor of The Carpentries, I volunteer to __teach foundational coding and data science skills to researchers__ (e.g. Excel, OpenRefine, SQL, R, Git).
