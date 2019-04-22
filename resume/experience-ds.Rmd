@@ -1,14 +1,14 @@
-### R software developer
+### R programmer
 
 ForestGEO  
 2017-03 - present  
 National Museum of Natural History, Smithsonian Institution, Washington DC, USA  
 
-__I build R packages__ and related software infrastructure (websites, Shiny applications, documentation, tutorials, etc.) to help researchers better understand and predict the dynamics of the world's forests in the face of climate change. The technologies I use the most include __R, Git, GitHub, and continuous integration with TravisCI__.
+__I build R programs__ and related software infrastructure (websites, Shiny applications, documentation, tutorials, etc.) to help researchers better understand and predict the dynamics of the world's forests in the face of climate change. The technologies I use the most include R, Git, GitHub, and continuous integration with TravisCI.
 
 ### Data science instructor
 
 The Carpentries  
 2018 - present  
 
-As a certified instructor of The Carpentries, I volunteer to __teach foundational coding and data science skills to researchers__ (e.g. Excel, OpenRefine, SQL, R, Git).
+As a __certified instructor__ of The Carpentries, I volunteer to __teach__ foundational coding and __data science skills to researchers and students__ (e.g. Excel, OpenRefine, SQL, R, Git).
