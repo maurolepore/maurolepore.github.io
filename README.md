@@ -80,7 +80,7 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
     Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack)
   - Contributed to multiple, popular R-packages (e.g.:
     [dplyr](https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/),
-    [usethis](https://www.tidyverse.org/articles/2018/02/usethis-1-3-0/),
+    [usethis](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/),
     [tidyr](https://www.tidyverse.org/articles/2018/02/tidyr-0-8-0/),
     [pkgdown](https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/)).
 
