@@ -1,0 +1,77 @@
+# MD anderson
+
+The University of Texas  
+
+The University of Texas MD Anderson Cancer Center
+
+* Division of Internal Medicine: Golo referrals
+* Therapeutics Discovery Division:
+  * The Institute for Applied Cancer Science (IACS)
+  * ORBIT (Oncology Research for Biologics and Immunotherapy Translation)
+  * Neurodegeneration Consortium
+  * TRACTION (Translational Research to Advance Therapeutics and Innovation in Oncology)
+    * [Computational Biology - Institute Associate Scientist III](https://jobs.mdanderson.org/search/jobdetails/computational-biology---institute-associate-scientist-iii/e3f4ef5f-6e8b-4764-ada4-f1a69869988c?s_cid=nas&s_cid=NatureJobs)  
+    
+    > The candidate will integrate computational modeling with quantitative experimental data to understand complex biological systems and translate this understanding to support oncology drug development.
+    
+    Salary: 64,500-97,000  
+    Degrees: Min BS, pref MS  
+    Experience: 
+      * Required: Three years of relevant research experience in lab. With preferred degree, one year of required experience.
+      * Preferred: 
+        * Strong foundation in both computer science concepts and molecular / cancer biology. 
+        * Proficient in PERL/Python, UNIX, and statistical computing platforms (R, Matlab, etc). 
+        * Experience manipulating large volume datasets and experience with high performance computing are essential. 
+        * Familiar with appropriate data normalization techniques and analysis of batch effects. 
+        * Previous hands-on experience working with computational and statistical tools for the analysis of biological datasets. 
+        * Specifically, the applicant should have experience with machine-learning and/or data mining algorithms (ie. Clustering, classification, etc.), and experience utilizing common parametric and non-parametric statistical tests (ie. T-test, ANOVA, Wilcoxon- signed-rank test, Fisher's exact test, etc.) for data analysis. 
+
+
+
+# Application
+
+Dear MD Anderson HR and TRACTION team,
+
+I am interested in your open position for a [Computational Biology - Institute Associate Scientist III](https://jobs.mdanderson.org/search/jobdetails/computational-biology---institute-associate-scientist-iii/e3f4ef5f-6e8b-4764-ada4-f1a69869988c?s_cid=nas&s_cid=NatureJobs). I have education and experience using statistics and engineering for biological research. This positoin seems like an excellent opportunity for me to contribute analytical and statistical support the discovery and development of new drugs.
+
+Here is how my skills match what your are looking for:
+
+
+Experience: 
+
+> Three years of relevant research experience in lab. With preferred degree, one year of required experience.
+
+
+Preferred: 
+
+> Strong foundation in both computer science concepts and molecular / cancer biology. 
+
+* As a biologist, I studied molecular biology deeply.
+* As a researcher (doctoral and postoctoral), I used computer science concepts to develop custom software to mine data to explore interesting patterns. I continuously train myself via  online courses, books, workshops, and conferences.
+* As a software developer (current job) I use computer science concepts to engineer efficient and maintainable software solutions that solve the needs of the researchers I support.
+
+> Proficient in PERL/Python, UNIX, and statistical computing platforms (R, Matlab, etc).
+
+* As a researcher and data science consultant, I use R at the expert level to extract, transform, model, and visualize data, and to communicate insights. I do this almost daily, at the expert level.
+
+* As a software developer, I use R and a UNIX-like application (Git bash) at the expert level for software development and version control.
+
+* As a voluntary instructor of The Carpentries, I teach and help teach Python for data analysis. 
+
+> Experience manipulating large volume datasets and experience with high performance computing are essential. 
+
+large forestgeo datasets
+
+> Familiar with appropriate data normalization techniques and analysis of batch effects. 
+
+My phd
+
+> Previous hands-on experience working with computational and statistical tools for the analysis of biological datasets. 
+
+research and now
+
+> Specifically, the applicant should have experience with machine-learning and/or data mining algorithms (ie. Clustering, classification, etc.), and experience utilizing common parametric and non-parametric statistical tests (ie. T-test, ANOVA, Wilcoxon- signed-rank test, Fisher's exact test, etc.) for data analysis. 
+
+supervised machine learning. Regressions
+unsupervised machine learning. Clustering
+all sorts of tests (link to my thesis)
