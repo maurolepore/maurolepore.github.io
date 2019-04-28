@@ -1,0 +1,56 @@
+---
+output: word_document
+---
+
+Dear MD Anderson HR and TRACTION team,
+
+Your open position for a [Computational Biology - Institute Research Investigator](https://jobs.mdanderson.org/search/jobdetails/computational-biology--institute-research-investigator/7feac97e-e2d2-40dd-a89a-b77b3bd859fb?s_cid=nas&s_cid=NatureJobs) (http://bit.ly/2GPcebn) seems like an excellent opportunity for me to help you discover and develop new drugs. Here is how my education and experience match what your are looking for:
+
+> Bachelor's degree in Biology, Biochemistry, molecular biology, cell biology, enzymology, pharmacology, chemistry or related field.
+
+> Preferred: Ph.D. in Computer Science, Engineering, Applied Mathematics, Biostatistics or a related discipline from an accredited university. BS/MS in biological sciences from an accredited university.
+
+* I have a ___licentiate_ degree in biology (similar to BS + MS)__, from the top university in Argentina (_Universidad de Buenos Aires_). The courses I took include __molecular biology, cell biology, and chemistry__.
+
+* I have a __PhD__ from The University of Queensland, ranked __in the top 50-100 universities globally__ by some of the most widely used and prestigious rankings (https://research.uq.edu.au/about/international-rankings).
+
+> Required: Six years experience of relevant research experience in lab. With preferred degree, four years of required experience.
+
+* I have __over five years of research experience in the lab__, accumulated during my _licentiate_ degree, __PhD__, and postdoc.
+
+> Preferred: Strong foundation in both computer science concepts and molecular / cancer biology. Proficient in PERL/Python, UNIX, and statistical computing platforms (R, Matlab, etc). Experience manipulating large volume datasets and experience with high performance computing are essential. Familiar with appropriate data normalization techniques and analysis of batch effects. Course work in biology (genetics, biochemistry, molecular and cell biology) with an experimental laboratory component.
+
+* My _licenciate_ degree in biology gave me a __strong foundation in molecular and cell biology__, as well as __genetics__, and __biochemistry__. I did __course work__ for all those subjects and they included an __experimental laboratory__ component.
+
+* I learned __computer science concepts__ (via online courses, books, workshops, and conferences) and I used them during my doctoral and postdoctoral research to build custom software for data analysis. Now, as a software developer, I continue to learn and apply computer science concepts to implement software solutions for the researchers I support.
+
+* As a certified instructor of The Carpentries (https://carpentries.org/), I have helped teach __Python__ for data analysis. 
+
+* As a researcher, data science consultant, and software developer, I use __R and a UNIX__-like application (Git bash) daily.
+
+* I have vast experience using tools and strategies to manipulate __large datasets__.
+
+* I am certified to operate the __high-performance computing__ platform of the Smithsonian Institution (certificate at http://bit.ly/2IK0N79).
+
+* During my doctoral and postdoctoral research I have used statistics intensively, and became familiar with __normalization techniques__.
+
+> Previous hands-on experience working with computational and statistical tools for the analysis of biological datasets. Specifically, the applicant should have experience with machine-learning and/or data mining algorithms (ie. Clustering, classification, etc.), and experience utilizing common parametric and non-parametric statistical tests (ie. T-test, ANOVA, Wilcoxon- signed-rank test, Fisher's exact test, etc.) for data analysis. Development of statistical algorithms, or the comprehensive assessment of algorithms, for the analysis of multidimensional datasets.
+
+* As a researcher, software developer, and data science consultant, I have many years of __hands-on experience working with computational and statistical tools for the analysis of biological datasets__. 
+
+* In my research I have explored patterns and variability in biological samples using multiple __parametric and non-parametric tests, and machine-learning__ methods including __clustering__. 
+
+* Among the multiple software tools I have developed, I built an interactive visualization for the __comprehensive assessment of an algorithm__ to analyze trait data in multidimensional space (https://maurolepore.shinyapps.io/plottrait/). 
+
+> Extensive experience collaborating with bench biologists, with examples where analytical methods enabled the validation of hypothesis.
+
+* My __PhD thesis and other academic publications__ provide multiple examples where, in __collaboration with other biologists__, I used __analytical methods to validate hypotheses__ (http://bit.ly/mauro-lepore-phd-thesis; http://bit.ly/mauro-lepore-scholar).
+
+> Experience with experimental design, project planning and working in the context of timelines and deliverables is preferred.
+
+* The research I did during my _licenciate_ degree, PhD, and postdoc gave me __vast experience designing experiments__ as well as protocols for collecting and processing samples. I also __planned__ and conducted each __research project__ according to clearly established timelines. Moreover, in my current role as a research software developer my yearly performance is evaluated based on specific __timelines and deliverables__.
+
+I look forward to meeting you and discussing your needs and how I could help you meet your goals.
+
+Best regards,  
+Mauro Lepore, PhD  
