@@ -1,0 +1,50 @@
+---
+output: word_document
+---
+
+Dear MD Anderson HR and TRACTION team,
+
+I'm interested in your open position for a [Computational Biology - Institute Associate Scientist III](https://jobs.mdanderson.org/search/jobdetails/computational-biology---institute-associate-scientist-iii/e3f4ef5f-6e8b-4764-ada4-f1a69869988c?s_cid=nas&s_cid=NatureJobs) (http://bit.ly/2Wbgjfp). I would love to contribute my analytical and statistical skills to support your team in the discovery and development of new drugs. Here is how my education and experience match what your are looking for:
+
+> Bachelor's degree in Biology, Biochemistry, Molecular Biology, Cell Biology, Enzymology, Pharmacology, Chemistry or related field.
+
+* I have a _licentiate_ degree in biology (similar to BS + MS), with courses in molecular biology, cell biology, and chemistry.
+
+> Three years of relevant research experience in lab. With preferred degree, one year of required experience.
+
+* I have five years of research experience in the lab, accumulated during my _licentiate_ degree, PhD, and postdoc.
+
+> Strong foundation in both computer science concepts and molecular / cancer biology. 
+
+* My _licenciate_ degree in biology gave me a strong foundation in molecular and cell biology.
+
+* I learned computer science concepts (via online courses, books, workshops, and conferences) and I used them during my doctoral and postdoctoral research to build custom software for data analysis. Now, as a software developer, I continue to learn and apply computer science concepts to implement software solutions for the researchers I support.
+
+> Proficient in PERL/Python, UNIX, and statistical computing platforms (R, Matlab, etc).
+
+* As a certified instructor of The Carpentries (https://carpentries.org/), I have helped teach Python for data analysis. 
+
+* As a researcher, data science consultant, and software developer, I use R and a UNIX-like application (Git bash) daily.
+
+> Experience manipulating large volume datasets and experience with high performance computing are essential. 
+
+* I have vast experience using tools and strategies to manipulate large datasets.
+
+* I am certified to operate the high-performance cluster of the Smithsonian Institution (certificate at http://bit.ly/2IK0N79).
+
+> Familiar with appropriate data normalization techniques and analysis of batch effects. 
+
+* During my doctoral and postdoctoral research I have used statistics intensively, and became familiar with normalization techniques.
+
+> Previous hands-on experience working with computational and statistical tools for the analysis of biological datasets. 
+
+* As a researcher, software developer, and data science consultant, I have many years of experience working with computational and statistical tools for the analysis of biological datasets. 
+
+> Specifically, the applicant should have experience with machine-learning and/or data mining algorithms (ie. Clustering, classification, etc.), and experience utilizing common parametric and non-parametric statistical tests (ie. T-test, ANOVA, Wilcoxon- signed-rank test, Fisher's exact test, etc.) for data analysis. 
+
+* In my research I have explored patterns and variability in biological samples using multiple parametric and non-parametric tests, and machine-learning methods including clustering.
+
+I look forward to meeting you and discussing your needs and how I could help you meet your goals.
+
+Best regards,  
+Mauro Lepore, PhD  
