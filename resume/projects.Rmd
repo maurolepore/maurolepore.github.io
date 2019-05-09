@@ -1,5 +1,10 @@
 ### tor: Import Multiple Files From a Single Directory at Once
 
+2019 - present  
+URL <https://cran.r-project.org/web/packages/fgeo.x/index.html>
+
+The goal of fgeo.x is to help you access small example datasets from Luquillo, a ForestGEO site in Puerto Rico (<https://forestgeo.si.edu/sites/north-america/luquillo>).
+
 2019-01 - present  
 URL <https://CRAN.R-project.org/package=tor>  
 
