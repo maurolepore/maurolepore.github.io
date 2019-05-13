@@ -1,9 +1,18 @@
-### tor: Import Multiple Files From a Single Directory at Once
+### fgeo.tool: Import and Manipulate ForestGEO Data
 
-2019 - present  
-URL <https://cran.r-project.org/web/packages/fgeo.x/index.html>
+2019-05 - present  
+URL <https://CRAN.R-project.org/package=fgeo.tool>
+
+The goal of fgeo.tool is to help you to easily import, filter, and modify ForestGEO data.
+
+### fgeo.x: Access Small ForestGEO Datasets For Examples
+
+2019-05 - present  
+URL <https://CRAN.R-project.org/package=fgeo.x>
 
 The goal of fgeo.x is to help you access small example datasets from Luquillo, a ForestGEO site in Puerto Rico (<https://forestgeo.si.edu/sites/north-america/luquillo>).
+
+### tor: Import Multiple Files From a Single Directory at Once
 
 2019-01 - present  
 URL <https://CRAN.R-project.org/package=tor>  
