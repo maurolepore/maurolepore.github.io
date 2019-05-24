@@ -1,16 +1,23 @@
+### fgeo: Analyze Forest Diversity and Dynamics
+
+2019-05 - present  
+URL <https://CRAN.R-project.org/package=fgeo>  
+
+To help you access, transform, analyze, and visualize ForestGEO data, we developed a collection of R packages (<https://forestgeo.github.io/fgeo/>). This package, in particular, helps you to install and load the entire package-collection with a single R command, and provides convenient ways to find relevant documentation. Most commonly, you should not worry about the individual packages that make up the package-collection as you can access all features via this package. To learn more about ForestGEO visit <http://www.forestgeo.si.edu/>.
+
 ### fgeo.plot: Plot ForestGEO Data
 
 2019-05 - present  
 URL <https://CRAN.R-project.org/package=fgeo.plot>  
 
-To help you access, transform, analyze, and visualize ForestGEO data, we developed a collection of R packages (<https://forestgeo.github.io/fgeo/>). This package, in particular, helps you to plot ForestGEO data. To learn more about ForestGEO visit <http://www.forestgeo.si.edu/>.
+This package helps you to plot ForestGEO data.
 
 ### fgeo.analyze: Analyze ForestGEO Data
 
 2019-05 - present  
 URL <https://CRAN.R-project.org/package=fgeo.analyze>  
 
-The goal of fgeo.analyze is to implement analyses of plot species distributions, topography, demography, and biomass. It also includes a torus translation test to determine habitat associations of tree species as described by Zuleta et al. (2018) <doi:10.1007/s11104-018-3878-0>. To learn more about ForestGEO visit <http://www.forestgeo.si.edu/>.
+The goal of fgeo.analyze is to implement analyses of plot species distributions, topography, demography, and biomass. It also includes a torus translation test to determine habitat associations of tree species as described by Zuleta et al. (2018) <doi:10.1007/s11104-018-3878-0>.
 
 ### fgeo.tool: Import and Manipulate ForestGEO Data
 
@@ -32,10 +39,3 @@ The goal of fgeo.x is to help you access small example datasets from Luquillo, a
 URL <https://CRAN.R-project.org/package=tor>  
 
 The goal of tor (to-R) is to help you to import multiple files from a single directory at once, and to do so as quickly, flexibly, and simply as possible.
-
-### fgeo: Analyze Forest Diversity and Dynamics
-
-2017-03 - present  
-URL <https://forestgeo.github.io/fgeo/>  
-
-'fgeo' is a collection of R packages to analyze forest diversity and dynamics. It includes packages to manipulate and plot ForestGEO data, and to do common analyses including abundance, demography, and species-habitats associations.
