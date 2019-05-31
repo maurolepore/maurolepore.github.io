@@ -30,8 +30,8 @@ I am an ecologist turned software developer and data science consultant. I now w
 
 #### Meetups
 
+* May, 2019: Speaker for the webinar: "[Uso comun de Git](http://youtu.be/SVzyWV1Iep8 )" (Spanish) for [DataLatam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ).
 * Since April 2019: Attending biweekly meetups of [instructors for The Carpentries at the Smithsonian](https://datascience.si.edu/carpentries).
-
 * February - June 2019: Weekly [ixpantia masterclass](https://www.ixpantia.com/en/).
 * October, 2018: [Speaker at meetup GitHub for projects](http://bit.ly/2pOrRXo), Library of the National Museum of Natural History, Smithsonian Institution.
 * July-August, 2018: Presentations (built with and about R) at the [ForestGEO workshop in Czech Republic](http://bit.ly/event-cr18):

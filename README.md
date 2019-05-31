@@ -18,33 +18,29 @@ support ([bio](http://bit.ly/mauro-lepore)).
 
 #### Meetups
 
+  - May, 2019: Speaker for the webinar: “[Uso comun de
+    Git](http://youtu.be/SVzyWV1Iep8)” (Spanish) for
+    [DataLatam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ).
   - Since April 2019: Attending biweekly meetups of [instructors for The
     Carpentries at the
     Smithsonian](https://datascience.si.edu/carpentries).
-
   - February - June 2019: Weekly [ixpantia
     masterclass](https://www.ixpantia.com/en/).
-
   - October, 2018: [Speaker at meetup GitHub for
     projects](http://bit.ly/2pOrRXo), Library of the National Museum of
     Natural History, Smithsonian Institution.
-
   - July-August, 2018: Presentations (built with and about R) at the
     [ForestGEO workshop in Czech Republic](http://bit.ly/event-cr18):
-    
       - <http://bit.ly/cr18-r-intro>.
       - <http://bit.ly/cr18-projects>.
       - <http://bit.ly/cr18-pipes>.
       - <http://bit.ly/cr18-plots>.
-
   - August, 2018: [Speaker at meetup Research with GitHub, National
     Museum of Natural History, Smithsonian
     Institution](http://bit.ly/research-with-github).
-
   - June 27, 2018: [Teaching Assistant at meetup of RLadies-DC, led by
     Kelly
     O’Briant](https://twitter.com/kellrstats,%20https://www.meetup.com/rladies-dc/events/251799760/).
-
   - June, 2018: [Led meeting, with runconf18 folks, on building R
     packages](https://twitter.com/mauro_lepore/status/1008136303182008320).
 
