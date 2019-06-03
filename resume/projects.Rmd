@@ -1,3 +1,10 @@
+##### datos: Traduce al Español Varios Conjuntos de Datos de Práctica
+
+2019-06 - present  
+URL <https://CRAN.R-project.org/package=datos>  
+
+Provee una versión traducida de los siguientes conjuntos de datos: 'airlines', 'airports', 'babynames', 'Batting', 'diamonds', 'faithful', 'flights', 'gapminder', 'gss_cat', 'iris', 'mpg', 'mtcars', 'atmos', 'planes', 'presidential', 'table1', 'table2', 'table3', 'table4a', 'table4b', 'table5', 'vehicles','weather', 'who'. English: It provides a Spanish translated version of the datasets listed above.
+
 ##### fgeo: Analyze Forest Diversity and Dynamics
 
 2019-05 - present  

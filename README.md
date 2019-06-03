@@ -3,6 +3,8 @@
   - [Contributions to open software and reproducible
     research](#contributions-to-open-software-and-reproducible-research)
       - [Packages on CRAN](#packages-on-cran)
+          - [datos: Traduce al Español Varios Conjuntos de Datos de
+            Práctica](#datos-traduce-al-español-varios-conjuntos-de-datos-de-práctica)
           - [fgeo: Analyze Forest Diversity and
             Dynamics](#fgeo-analyze-forest-diversity-and-dynamics)
           - [fgeo.plot: Plot ForestGEO
@@ -46,6 +48,19 @@ support ([bio](http://bit.ly/mauro-lepore)).
 ### Contributions to open software and reproducible research
 
 #### Packages on CRAN
+
+##### datos: Traduce al Español Varios Conjuntos de Datos de Práctica
+
+2019-06 - present  
+URL <https://CRAN.R-project.org/package=datos>
+
+Provee una versión traducida de los siguientes conjuntos de datos:
+‘airlines’, ‘airports’, ‘babynames’, ‘Batting’, ‘diamonds’,
+‘faithful’, ‘flights’, ‘gapminder’, ‘gss\_cat’, ‘iris’, ‘mpg’,
+‘mtcars’, ‘atmos’, ‘planes’, ‘presidential’, ‘table1’, ‘table2’,
+‘table3’, ‘table4a’, ‘table4b’, ‘table5’, ‘vehicles’,‘weather’, ‘who’.
+English: It provides a Spanish translated version of the datasets listed
+above.
 
 ##### fgeo: Analyze Forest Diversity and Dynamics
 
