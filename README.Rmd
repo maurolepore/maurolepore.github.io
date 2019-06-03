@@ -28,13 +28,11 @@ I am an ecologist turned software developer and data science consultant. I now w
 
 ### Contributions to open software and reproducible research
 
-### Packages as maintaner
+#### Packages on CRAN
 
 ```{r, child='resume/projects.Rmd'}
 
 ```
-
-
 
 #### Software peer-review
 

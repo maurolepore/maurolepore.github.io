@@ -2,18 +2,19 @@
   - [About](#about)
   - [Contributions to open software and reproducible
     research](#contributions-to-open-software-and-reproducible-research)
-  - [Packages as maintaner](#packages-as-maintaner)
-      - [fgeo: Analyze Forest Diversity and
-        Dynamics](#fgeo-analyze-forest-diversity-and-dynamics)
-      - [fgeo.plot: Plot ForestGEO Data](#fgeo.plot-plot-forestgeo-data)
-      - [fgeo.analyze: Analyze ForestGEO
-        Data](#fgeo.analyze-analyze-forestgeo-data)
-      - [fgeo.tool: Import and Manipulate ForestGEO
-        Data](#fgeo.tool-import-and-manipulate-forestgeo-data)
-      - [fgeo.x: Access Small ForestGEO Datasets For
-        Examples](#fgeo.x-access-small-forestgeo-datasets-for-examples)
-      - [tor: Import Multiple Files From a Single Directory at
-        Once](#tor-import-multiple-files-from-a-single-directory-at-once)
+      - [Packages on CRAN](#packages-on-cran)
+          - [fgeo: Analyze Forest Diversity and
+            Dynamics](#fgeo-analyze-forest-diversity-and-dynamics)
+          - [fgeo.plot: Plot ForestGEO
+            Data](#fgeo.plot-plot-forestgeo-data)
+          - [fgeo.analyze: Analyze ForestGEO
+            Data](#fgeo.analyze-analyze-forestgeo-data)
+          - [fgeo.tool: Import and Manipulate ForestGEO
+            Data](#fgeo.tool-import-and-manipulate-forestgeo-data)
+          - [fgeo.x: Access Small ForestGEO Datasets For
+            Examples](#fgeo.x-access-small-forestgeo-datasets-for-examples)
+          - [tor: Import Multiple Files From a Single Directory at
+            Once](#tor-import-multiple-files-from-a-single-directory-at-once)
       - [Software peer-review](#software-peer-review)
       - [Meetups](#meetups)
       - [Teaching](#teaching)
@@ -44,9 +45,9 @@ support ([bio](http://bit.ly/mauro-lepore)).
 
 ### Contributions to open software and reproducible research
 
-### Packages as maintaner
+#### Packages on CRAN
 
-#### fgeo: Analyze Forest Diversity and Dynamics
+##### fgeo: Analyze Forest Diversity and Dynamics
 
 2019-05 - present  
 URL <https://CRAN.R-project.org/package=fgeo>
@@ -61,14 +62,14 @@ packages that make up the package-collection as you can access all
 features via this package. To learn more about ForestGEO visit
 <http://www.forestgeo.si.edu/>.
 
-#### fgeo.plot: Plot ForestGEO Data
+##### fgeo.plot: Plot ForestGEO Data
 
 2019-05 - present  
 URL <https://CRAN.R-project.org/package=fgeo.plot>
 
 This package helps you to plot ForestGEO data.
 
-#### fgeo.analyze: Analyze ForestGEO Data
+##### fgeo.analyze: Analyze ForestGEO Data
 
 2019-05 - present  
 URL <https://CRAN.R-project.org/package=fgeo.analyze>
@@ -78,7 +79,7 @@ distributions, topography, demography, and biomass. It also includes a
 torus translation test to determine habitat associations of tree species
 as described by Zuleta et al. (2018) <doi:10.1007/s11104-018-3878-0>.
 
-#### fgeo.tool: Import and Manipulate ForestGEO Data
+##### fgeo.tool: Import and Manipulate ForestGEO Data
 
 2019-05 - present  
 URL <https://CRAN.R-project.org/package=fgeo.tool>
@@ -86,7 +87,7 @@ URL <https://CRAN.R-project.org/package=fgeo.tool>
 The goal of fgeo.tool is to help you to easily import, filter, and
 modify ForestGEO data.
 
-#### fgeo.x: Access Small ForestGEO Datasets For Examples
+##### fgeo.x: Access Small ForestGEO Datasets For Examples
 
 2019-05 - present  
 URL <https://CRAN.R-project.org/package=fgeo.x>
@@ -95,7 +96,7 @@ The goal of fgeo.x is to help you access small example datasets from
 Luquillo, a ForestGEO site in Puerto Rico
 (<https://forestgeo.si.edu/sites/north-america/luquillo>).
 
-#### tor: Import Multiple Files From a Single Directory at Once
+##### tor: Import Multiple Files From a Single Directory at Once
 
 2019-01 - present  
 URL <https://CRAN.R-project.org/package=tor>
