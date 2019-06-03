@@ -1,4 +1,20 @@
 
+  - [About](#about)
+  - [Contributions to open software and reproducible
+    research](#contributions-to-open-software-and-reproducible-research)
+      - [Software peer-review](#software-peer-review)
+      - [Meetups](#meetups)
+      - [Teaching](#teaching)
+      - [Blogs:](#blogs)
+      - [Other Contributions:](#other-contributions)
+  - [Training](#training)
+  - [Meetings](#meetings)
+  - [Research](#research)
+  - [Most recent grants and sponsors](#most-recent-grants-and-sponsors)
+      - [2019](#section)
+      - [2018](#section-1)
+  - [Largest grant and sponsor](#largest-grant-and-sponsor)
+
 ### About
 
 Mauro Lepore
@@ -15,6 +31,15 @@ passionately sharing resources with the researchers and students I
 support ([bio](http://bit.ly/mauro-lepore)).
 
 ### Contributions to open software and reproducible research
+
+#### Software peer-review
+
+  - [rOpenSci, gitignore
+    package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
+  - [ixpantia, ixplorer
+    package](https://github.com/ixpantia/ixplorer/pull/1#issue-281177229).
+  - [2DegreesInvesting, pacta
+    package](https://github.com/2DegreesInvesting/pacta/pull/4#issue-280847664).
 
 #### Meetups
 
@@ -152,9 +177,9 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
     San Francisco, USA (USD 1,200).
   - Scholarship to attend [rOpenSci](https://ropensci.org/)’s
     [runconf18](http://unconf18.ropensci.org/#participants), Seattle,
-    USA (~USD 1,500).
+    USA (\~USD 1,500).
 
 ### Largest grant and sponsor
 
 2011-2015: AusAid scholarship for PhD at the University of Queensland,
-Australia (~USD 190,000)
+Australia (\~USD 190,000)
