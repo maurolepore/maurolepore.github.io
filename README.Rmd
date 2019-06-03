@@ -28,6 +28,14 @@ I am an ecologist turned software developer and data science consultant. I now w
 
 ### Contributions to open software and reproducible research
 
+### Packages as maintaner
+
+```{r, child='resume/projects.Rmd'}
+
+```
+
+
+
 #### Software peer-review
 
 * [rOpenSci, gitignore package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
