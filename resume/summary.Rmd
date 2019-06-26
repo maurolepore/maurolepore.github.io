@@ -1,1 +1,0 @@
-I am an ecologist turned software developer and data science consultant. I now work for a network of forest ecologists, building R packages and passionately sharing resources with the researchers and students I support. I also have several years of experience teaching and providing customer services.
