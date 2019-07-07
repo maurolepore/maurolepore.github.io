@@ -30,9 +30,7 @@ I am an ecologist turned software developer and data science consultant. I now w
 
 #### Packages on CRAN
 
-```{r, child='resume/projects.Rmd'}
-
-```
+TODO
 
 #### Software peer-review
 
