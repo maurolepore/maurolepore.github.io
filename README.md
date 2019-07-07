@@ -3,20 +3,6 @@
   - [Contributions to open software and reproducible
     research](#contributions-to-open-software-and-reproducible-research)
       - [Packages on CRAN](#packages-on-cran)
-          - [datos: Traduce al Español Varios Conjuntos de Datos de
-            Práctica](#datos-traduce-al-español-varios-conjuntos-de-datos-de-práctica)
-          - [fgeo: Analyze Forest Diversity and
-            Dynamics](#fgeo-analyze-forest-diversity-and-dynamics)
-          - [fgeo.plot: Plot ForestGEO
-            Data](#fgeo.plot-plot-forestgeo-data)
-          - [fgeo.analyze: Analyze ForestGEO
-            Data](#fgeo.analyze-analyze-forestgeo-data)
-          - [fgeo.tool: Import and Manipulate ForestGEO
-            Data](#fgeo.tool-import-and-manipulate-forestgeo-data)
-          - [fgeo.x: Access Small ForestGEO Datasets For
-            Examples](#fgeo.x-access-small-forestgeo-datasets-for-examples)
-          - [tor: Import Multiple Files From a Single Directory at
-            Once](#tor-import-multiple-files-from-a-single-directory-at-once)
       - [Software peer-review](#software-peer-review)
       - [Meetups](#meetups)
       - [Teaching](#teaching)
@@ -49,76 +35,16 @@ support ([bio](http://bit.ly/mauro-lepore)).
 
 #### Packages on CRAN
 
-##### datos: Traduce al Español Varios Conjuntos de Datos de Práctica
-
-2019-06 - present  
-URL <https://CRAN.R-project.org/package=datos>
-
-Provee una versión traducida de los siguientes conjuntos de datos:
-‘airlines’, ‘airports’, ‘babynames’, ‘Batting’, ‘diamonds’,
-‘faithful’, ‘flights’, ‘gapminder’, ‘gss\_cat’, ‘iris’, ‘mpg’,
-‘mtcars’, ‘atmos’, ‘planes’, ‘presidential’, ‘table1’, ‘table2’,
-‘table3’, ‘table4a’, ‘table4b’, ‘table5’, ‘vehicles’,‘weather’, ‘who’.
-English: It provides a Spanish translated version of the datasets listed
-above.
-
-##### fgeo: Analyze Forest Diversity and Dynamics
-
-2019-05 - present  
-URL <https://CRAN.R-project.org/package=fgeo>
-
-To help you access, transform, analyze, and visualize ForestGEO data, we
-developed a collection of R packages
-(<https://forestgeo.github.io/fgeo/>). This package, in particular,
-helps you to install and load the entire package-collection with a
-single R command, and provides convenient ways to find relevant
-documentation. Most commonly, you should not worry about the individual
-packages that make up the package-collection as you can access all
-features via this package. To learn more about ForestGEO visit
-<http://www.forestgeo.si.edu/>.
-
-##### fgeo.plot: Plot ForestGEO Data
-
-2019-05 - present  
-URL <https://CRAN.R-project.org/package=fgeo.plot>
-
-This package helps you to plot ForestGEO data.
-
-##### fgeo.analyze: Analyze ForestGEO Data
-
-2019-05 - present  
-URL <https://CRAN.R-project.org/package=fgeo.analyze>
-
-The goal of fgeo.analyze is to implement analyses of plot species
-distributions, topography, demography, and biomass. It also includes a
-torus translation test to determine habitat associations of tree species
-as described by Zuleta et al. (2018) <doi:10.1007/s11104-018-3878-0>.
-
-##### fgeo.tool: Import and Manipulate ForestGEO Data
-
-2019-05 - present  
-URL <https://CRAN.R-project.org/package=fgeo.tool>
-
-The goal of fgeo.tool is to help you to easily import, filter, and
-modify ForestGEO data.
-
-##### fgeo.x: Access Small ForestGEO Datasets For Examples
-
-2019-05 - present  
-URL <https://CRAN.R-project.org/package=fgeo.x>
-
-The goal of fgeo.x is to help you access small example datasets from
-Luquillo, a ForestGEO site in Puerto Rico
-(<https://forestgeo.si.edu/sites/north-america/luquillo>).
-
-##### tor: Import Multiple Files From a Single Directory at Once
-
-2019-01 - present  
-URL <https://CRAN.R-project.org/package=tor>
-
-The goal of tor (to-R) is to help you to import multiple files from a
-single directory at once, and to do so as quickly, flexibly, and simply
-as possible.
+    #> - "maurolepore" ---------------------------- 8 packages in 0.008 seconds - 
+    #>   #     package      version by                    @ title                
+    #>  1  100 tor          1.1.1   Mauro Lepore         6M Import Multiple Fi...
+    #>  2   84 fgeo.x       1.1.4   Mauro Lepore        30d Access Small Fores...
+    #>  3   68 fgeo.plot    1.1.9   Mauro Lepore        19d Plot ForestGEO Data  
+    #>  4   67 fgeo.tool    1.2.5   Mauro Lepore        20d Import and Manipul...
+    #>  5   47 fgeo.analyze 1.1.11  Mauro Lepore        19d Analyze ForestGEO ...
+    #>  6   30 fgeo         1.1.4   Mauro Lepore        18d Analyze Forest Div...
+    #>  7   21 gitignore    0.1.2   Philippe Massicotte  9d Create Useful .git...
+    #>  8   14 datos        0.1.0   Edgar Ruiz           1M Traduce al Español...
 
 #### Software peer-review
 

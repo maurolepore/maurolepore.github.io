@@ -30,8 +30,8 @@ I am an ecologist turned software developer and data science consultant. I now w
 
 #### Packages on CRAN
 
-```{r, child='resume/projects.Rmd'}
-
+```{r, echo=FALSE}
+pkgsearch::pkg_search("maurolepore")
 ```
 
 #### Software peer-review
