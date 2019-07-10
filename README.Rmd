@@ -24,7 +24,7 @@ Mauro Lepore
 [GitHub](https://github.com/maurolepore)
 [LinkedIn](https://www.linkedin.com/in/mauro-lepore)
 
-I am an ecologist turned software developer and data science consultant. I now work for a network of forest ecologists, building R packages and passionately sharing resources with the researchers and students I support ([bio](http://bit.ly/mauro-lepore)).
+I'm most experienced in software development, research and teaching. I implement software solutions to help researchers work in an efficient, transparent, and reproducible way. I often contribute as a developer or teacher to popular open software projects or communities (<https://maurolepore.github.io/>). 
 
 ### Contributions to open software and reproducible research
 
