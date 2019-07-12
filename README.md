@@ -2,8 +2,6 @@
   - [About](#about)
   - [Contributions to open software and reproducible
     research](#contributions-to-open-software-and-reproducible-research)
-      - [Packages on CRAN](#packages-on-cran)
-      - [Software peer-review](#software-peer-review)
       - [Meetups](#meetups)
       - [Teaching](#teaching)
       - [Blogs:](#blogs)
@@ -20,11 +18,11 @@
 
 Mauro Lepore
 
-[Twitter](https://twitter.com/mauro_lepore)
-[R-blog](https://fgeo.netlify.com/) [R-channel](http://bit.ly/r-videos)
-[R-packages](https://forestgeo.github.io/fgeo)
+[R-packages](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
 [GitHub](https://github.com/maurolepore)
+[R-videos](http://bit.ly/r-videos)
 [LinkedIn](https://www.linkedin.com/in/mauro-lepore)
+[Twitter](https://twitter.com/mauro_lepore)
 
 I’m most experienced in software development, research and teaching. I
 implement software solutions to help researchers work in an efficient,

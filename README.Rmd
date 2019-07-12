@@ -17,12 +17,11 @@ knitr::opts_chunk$set(
 
 Mauro Lepore
 
-[Twitter](https://twitter.com/mauro_lepore)
-[R-blog](https://fgeo.netlify.com/)
-[R-channel](http://bit.ly/r-videos)
-[R-packages](https://forestgeo.github.io/fgeo)
+[R-packages](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
 [GitHub](https://github.com/maurolepore)
+[R-videos](http://bit.ly/r-videos)
 [LinkedIn](https://www.linkedin.com/in/mauro-lepore)
+[Twitter](https://twitter.com/mauro_lepore)
 
 I'm most experienced in software development, research and teaching. I implement software solutions to help researchers work in an efficient, transparent, and reproducible way. I often contribute as a developer or teacher to popular open software projects or communities (<https://maurolepore.github.io/>). 
 
