@@ -34,27 +34,15 @@ teacher to popular open software projects or communities
 
 ### Contributions to open software and reproducible research
 
-#### Packages on CRAN
-
-    #> - "maurolepore" ----------------------------- 8 packages in 0.01 seconds - 
-    #>   #     package      version by                    @ title                
-    #>  1  100 tor          1.1.1   Mauro Lepore         6M Import Multiple Fi...
-    #>  2   84 fgeo.x       1.1.4   Mauro Lepore         1M Access Small Fores...
-    #>  3   68 fgeo.plot    1.1.9   Mauro Lepore        22d Plot ForestGEO Data  
-    #>  4   67 fgeo.tool    1.2.5   Mauro Lepore        23d Import and Manipul...
-    #>  5   47 fgeo.analyze 1.1.11  Mauro Lepore        21d Analyze ForestGEO ...
-    #>  6   30 fgeo         1.1.4   Mauro Lepore        20d Analyze Forest Div...
-    #>  7   21 gitignore    0.1.2   Philippe Massicotte 12d Create Useful .git...
-    #>  8   14 datos        0.1.0   Edgar Ruiz           1M Traduce al Español...
-
-#### Software peer-review
-
-  - [rOpenSci, gitignore
-    package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
-  - [ixpantia, ixplorer
-    package](https://github.com/ixpantia/ixplorer/pull/1#issue-281177229).
-  - [2DegreesInvesting, pacta
-    package](https://github.com/2DegreesInvesting/pacta/pull/4#issue-280847664).
+  - [8 packages on
+    CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
+  - Software peer-review:
+      - [rOpenSci, gitignore
+        package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
+      - [ixpantia, ixplorer
+        package](https://github.com/ixpantia/ixplorer/pull/1#issue-281177229).
+      - [2DegreesInvesting, pacta
+        package](https://github.com/2DegreesInvesting/pacta/pull/4#issue-280847664).
 
 #### Meetups
 

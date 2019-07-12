@@ -28,17 +28,11 @@ I'm most experienced in software development, research and teaching. I implement
 
 ### Contributions to open software and reproducible research
 
-#### Packages on CRAN
-
-```{r, echo=FALSE}
-pkgsearch::pkg_search("maurolepore")
-```
-
-#### Software peer-review
-
-* [rOpenSci, gitignore package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
-* [ixpantia, ixplorer package](https://github.com/ixpantia/ixplorer/pull/1#issue-281177229).
-* [2DegreesInvesting, pacta package](https://github.com/2DegreesInvesting/pacta/pull/4#issue-280847664).
+* [`r nrow(pkgsearch::pkg_search("maurolepore"))` packages on CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
+* Software peer-review:
+    * [rOpenSci, gitignore package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
+    * [ixpantia, ixplorer package](https://github.com/ixpantia/ixplorer/pull/1#issue-281177229).
+    * [2DegreesInvesting, pacta package](https://github.com/2DegreesInvesting/pacta/pull/4#issue-280847664).
 
 #### Meetups
 
