@@ -35,6 +35,7 @@ I'm most experienced in software development, research and teaching. I implement
 
 #### Meetups
 
+* August, 2019: Podcast interview at [DataLatam Episodio 49](http://www.datalatam.com/49), _ONGs, ciencia de datos y dateros enfocados en hacer un mundo mejor_.
 * May, 2019: Speaker for the webinar: "[Uso comun de Git](http://youtu.be/SVzyWV1Iep8 )" (Spanish) for [DataLatam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ).
 * Since April 2019: Attending biweekly meetups of [instructors for The Carpentries at the Smithsonian](https://datascience.si.edu/carpentries).
 * February - June 2019: Weekly [ixpantia masterclass](https://www.ixpantia.com/en/).

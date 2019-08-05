@@ -44,6 +44,9 @@ teacher to popular open software projects or communities
 
 #### Meetups
 
+  - August, 2019: Podcast interview at [DataLatam
+    Episodio 49](http://www.datalatam.com/49), *ONGs, ciencia de datos y
+    dateros enfocados en hacer un mundo mejor*.
   - May, 2019: Speaker for the webinar: “[Uso comun de
     Git](http://youtu.be/SVzyWV1Iep8)” (Spanish) for
     [DataLatam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ).
