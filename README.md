@@ -72,6 +72,10 @@ teacher to popular open software projects or communities
     O’Briant](https://twitter.com/kellrstats,%20https://www.meetup.com/rladies-dc/events/251799760/).
   - June, 2018: [Led meeting, with runconf18 folks, on building R
     packages](https://twitter.com/mauro_lepore/status/1008136303182008320).
+  - March, 2017: Speaker for the presentation [Manage and share
+    data](https://youtu.be/7exLm5gKceY) at the workshop “Digital Data in
+    Paleontological Research”, The University of California Museum of
+    Paleontology (UCMP).
 
 #### Teaching
 
