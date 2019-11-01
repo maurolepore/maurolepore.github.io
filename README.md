@@ -44,6 +44,12 @@ teacher to popular open software projects or communities
 
 #### Meetups
 
+  - October, 2019: Speaker at the
+    [meetup](https://www.meetup.com/renbaires/events/266047066/) about
+    [“Ayuda para solicitudes de fusión en
+    GitHub”](https://github.com/an-org/datos-de-miercoles) (Spanish),
+    for [RenBaires](https://twitter.com/renbaires), at [Medallia
+    Argentina](https://twitter.com/MedalliaArg).
   - August, 2019: Podcast interview at [DataLatam
     Episodio 49](http://www.datalatam.com/49), *ONGs, ciencia de datos y
     dateros enfocados en hacer un mundo mejor*.
