@@ -117,6 +117,7 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
     [dplyr](https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/),
     [usethis](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/),
     [styler](https://www.tidyverse.org/blog/2019/11/styler-1-2-0/),
+    [roxygen2](https://www.tidyverse.org/blog/2019/11/roxygen2-7-0-0/),
     [pkgdown](https://www.tidyverse.org/blog/2019/09/pkgdown-1-4-0/)).
 
 ### Training
