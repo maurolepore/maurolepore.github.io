@@ -27,6 +27,7 @@ I'm most experienced in software development, research and teaching. I implement
 
 ### Contributions to open software and reproducible research
 
+* Expert for [eLife Innovation Leaders 2020: Meet our mentors and experts](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
 * [`r nrow(pkgsearch::pkg_search("maurolepore"))` packages on CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
 * Software peer-review:
     * [rOpenSci, gitignore package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
@@ -68,7 +69,7 @@ I am a [Certified instructor of The Carpentries](http://bit.ly/mauro-lepore-carp
 
 #### Other Contributions:
 
-* Contributed to the book [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack)
+* Contributed to the book [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack).
 * Contributed to multiple, popular R-packages (e.g.: [dplyr](https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/), [usethis](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/), [styler](https://www.tidyverse.org/blog/2019/11/styler-1-2-0/), [roxygen2](https://www.tidyverse.org/blog/2019/11/roxygen2-7-0-0/), [pkgdown](https://www.tidyverse.org/blog/2019/09/pkgdown-1-4-0/)).
 
 ### Training
@@ -83,6 +84,7 @@ I am a [Certified instructor of The Carpentries](http://bit.ly/mauro-lepore-carp
 
 ### Meetings
 
+* September, 2019, [eLife Innovation Sprint](https://sprint.elifesciences.org/), Cambridge, UK.
 * March, 2019: [chirunconf](https://chirunconf.github.io/#team), Chicago, USA.
 * January, 2019:[rstudio::conf](https://www.rstudio.com/conference/), Austin, USA.
 * September, 2018: [LatinR](https://i.imgur.com/TMYMQEf.png), Buenos Aires, Argentina.

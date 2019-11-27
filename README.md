@@ -32,6 +32,8 @@ teacher to popular open software projects or communities
 
 ### Contributions to open software and reproducible research
 
+  - Expert for [eLife Innovation Leaders 2020: Meet our mentors and
+    experts](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
   - [8 packages on
     CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
   - Software peer-review:
@@ -112,7 +114,7 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
 #### Other Contributions:
 
   - Contributed to the book [Advanced R by Hadley
-    Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack)
+    Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack).
   - Contributed to multiple, popular R-packages (e.g.:
     [dplyr](https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/),
     [usethis](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/),
@@ -149,6 +151,8 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
 
 ### Meetings
 
+  - September, 2019, [eLife Innovation
+    Sprint](https://sprint.elifesciences.org/), Cambridge, UK.
   - March, 2019: [chirunconf](https://chirunconf.github.io/#team),
     Chicago, USA.
   - January, 2019:[rstudio::conf](https://www.rstudio.com/conference/),
