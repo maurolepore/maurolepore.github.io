@@ -32,8 +32,8 @@ teacher to popular open software projects or communities
 
 ### Contributions to open software and reproducible research
 
-  - Expert for [eLife Innovation Leaders 2020: Meet our mentors and
-    experts](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
+  - Expert for [eLife Innovation
+    Leaders 2020](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
   - [8 packages on
     CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
   - Software peer-review:
