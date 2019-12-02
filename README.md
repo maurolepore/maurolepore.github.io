@@ -46,6 +46,9 @@ teacher to popular open software projects or communities
 
 #### Meetups
 
+  - November, 2019: Speaker for the webinar “[Ayuda para solicitudes de
+    fusion en GitHub](https://youtu.be/PSNNbeVUxFc)” (Spanish) for
+    [DataLatam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ).
   - October, 2019: Speaker at the
     [meetup](https://www.meetup.com/renbaires/events/266047066/) about
     [“Ayuda para solicitudes de fusión en
