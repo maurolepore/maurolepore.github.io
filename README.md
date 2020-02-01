@@ -6,6 +6,8 @@
       - [Teaching](#teaching)
       - [Blogs:](#blogs)
       - [Other Contributions:](#other-contributions)
+          - [Books](#books)
+          - [Packages](#packages)
   - [Training](#training)
   - [Meetings](#meetings)
   - [Research](#research)
@@ -46,6 +48,8 @@ teacher to popular open software projects or communities
 
 #### Meetups
 
+  - Weekly since October, 2019: ds-incubator
+    [meetups](https://github.com/2DegreesInvesting/ds-incubator).
   - November, 2019: Speaker for the webinar “[Ayuda para solicitudes de
     fusion en GitHub](https://youtu.be/PSNNbeVUxFc)” (Spanish) for
     [DataLatam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ).
@@ -116,8 +120,20 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
 
 #### Other Contributions:
 
+##### Books
+
+  - Contributed to the book [Advanced R by Hadley
+    Wickham](https://es.r4ds.hadley.nz/).
+
+  - Contributed to the book [R para Ciencia de Datos by Garrett
+    Grolemund and Hadley
+    Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack).
+
   - Contributed to the book [Advanced R by Hadley
     Wickham](https://adv-r.hadley.nz/introduction.html#intro-ack).
+
+##### Packages
+
   - Contributed to multiple, popular R-packages (e.g.:
     [dplyr](https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/),
     [usethis](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/),

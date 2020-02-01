@@ -5,13 +5,7 @@ output:
     toc_depth: 5
 ---
 
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
+
 
 ### About
 
@@ -28,7 +22,7 @@ I'm most experienced in software development, research and teaching. I implement
 ### Contributions to open software and reproducible research
 
 * Expert for [eLife Innovation Leaders 2020](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
-* [`r nrow(pkgsearch::pkg_search("maurolepore"))` packages on CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
+* [8 packages on CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
 * Software peer-review:
     * [rOpenSci, gitignore package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
     * [ixpantia, ixplorer package](https://github.com/ixpantia/ixplorer/pull/1#issue-281177229).
