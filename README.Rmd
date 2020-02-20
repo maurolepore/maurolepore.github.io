@@ -133,4 +133,3 @@ I am a [Certified instructor of The Carpentries](http://bit.ly/mauro-lepore-carp
     * [LatinR](http://latin-r.com/) conference, Buenos Aires, Argentina.
 * Academic discount from RStudio to attend the workshop [Building tidy tools](https://blog.rstudio.com/2018/04/09/building-tidy-tools-workshop/), San Francisco, USA (USD 1,200).
 * Scholarship to attend [rOpenSci](https://ropensci.org/)'s [runconf18](http://unconf18.ropensci.org/#participants), Seattle, USA (~USD 1,500).
-
