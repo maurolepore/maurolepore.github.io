@@ -43,7 +43,9 @@ teacher to popular open software projects or communities
   - O’Dea, Lepore et al. Nature Scientific Reports (2020). [Defining
     variation in pre-human ecosystems can guide conservation: An example
     from a Caribbean coral
-    reef](https://www.nature.com/articles/s41598-020-59436-y).
+    reef](https://www.nature.com/articles/s41598-020-59436-y) (see also
+    [Smithsonian’s
+    news](https://www.si.edu/newsdesk/releases/plenty-gloom-dash-hope-fossils-help-identify-lone-bright-spot-reef-similar-state)).
 
   - Leonard, Lepore et al. Paleoceanography and Paleoclimatology (2020).
     [A U‐Th Dating Approach to Understanding Past Coral Reef Dynamics
