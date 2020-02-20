@@ -15,10 +15,8 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
         run: Rscript -e 'install.packages("rmarkdown")'
-      - name: Install dependencies
-        run: |
-          Rscript -e 'install.packages("rmarkdown")'
-          Rscript -e 'install.packages("pkgsearch")'
+      - name: Install pkgsearch
+        run: Rscript -e 'install.packages("pkgsearch")'
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd", output_format = "github_document")'
       - name: Commit results
