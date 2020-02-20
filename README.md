@@ -1,7 +1,10 @@
 
   - [About](#about)
-  - [Contributions to open software and reproducible
-    research](#contributions-to-open-software-and-reproducible-research)
+  - [Recently published software](#recently-published-software)
+  - [Recently published academic
+    papers](#recently-published-academic-papers)
+  - [Other contributions to open software and reproducible
+    research](#other-contributions-to-open-software-and-reproducible-research)
       - [Meetups](#meetups)
       - [Teaching](#teaching)
       - [Blogs:](#blogs)
@@ -10,11 +13,9 @@
           - [Packages](#packages)
   - [Training](#training)
   - [Meetings](#meetings)
-  - [Research](#research)
-  - [Most recent grants and sponsors](#most-recent-grants-and-sponsors)
+  - [Recent grants](#recent-grants)
       - [2019](#section)
       - [2018](#section-1)
-  - [Largest grant and sponsor](#largest-grant-and-sponsor)
 
 ### About
 
@@ -32,24 +33,42 @@ transparent, and reproducible way. I often contribute as a developer or
 teacher to popular open software projects or communities
 (<https://maurolepore.github.io/>).
 
-### Contributions to open software and reproducible research
+### Recently published software
+
+  - [8 packages published on
+    CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
+
+### Recently published academic papers
+
+  - O’Dea, Lepore et al. Nature Scientific Reports (2020). [Defining
+    variation in pre-human ecosystems can guide conservation: An example
+    from a Caribbean coral
+    reef](https://www.nature.com/articles/s41598-020-59436-y).
+
+  - Leonard, Lepore et al. Paleoceanography and Paleoclimatology (2020).
+    [A U‐Th Dating Approach to Understanding Past Coral Reef Dynamics
+    and Geomorphological Constraints on Future Reef Growth Potential;
+    Mazie Bay, Southern Great Barrier
+    Reef](https://doi.org/10.1029/2019PA003768).
+
+  - O’Dea, Dillon et al. Conservation Biology (2017). [Look to the past
+    for an optimistic
+    future](https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.12997).
+
+### Other contributions to open software and reproducible research
 
   - Expert for [eLife Innovation
     Leaders 2020](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
-  - [8 packages on
-    CRAN](https://www.rdocumentation.org/collaborators/name/Mauro%20Lepore)
+
   - Software peer-review:
+    
       - [rOpenSci, gitignore
         package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
-      - [ixpantia, ixplorer
-        package](https://github.com/ixpantia/ixplorer/pull/1#issue-281177229).
-      - [2DegreesInvesting, pacta
-        package](https://github.com/2DegreesInvesting/pacta/pull/4#issue-280847664).
 
 #### Meetups
 
-  - Weekly since October, 2019: ds-incubator
-    [meetups](https://github.com/2DegreesInvesting/ds-incubator).
+  - Weekly since October, 2019: [ds-incubator
+    meetups](https://github.com/2DegreesInvesting/ds-incubator).
   - November, 2019: Speaker for the webinar “[Ayuda para solicitudes de
     fusion en GitHub](https://youtu.be/PSNNbeVUxFc)” (Spanish) for
     [DataLatam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ).
@@ -184,15 +203,12 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
   - May, 2018: [runconf18](http://unconf18.ropensci.org/#participants),
     Seattle, USA.
 
-### Research
-
-  - [Look to the past for an optimistic future (O’Dea et
-    al. 2017)](https://goo.gl/U3aBC2).
-
-### Most recent grants and sponsors
+### Recent grants
 
 #### 2019
 
+  - Full scholarship to attand [eLife Innovation
+    Sprint](https://sprint.elifesciences.org/), Cambridge, UK.
   - Diversity scholarship to attend the
     [chirunconf](https://chirunconf.github.io/), R Unconference in
     Chicago, USA (USD 300).
@@ -216,8 +232,3 @@ Institution](https://datascience.si.edu/carpentries) and elsewhere:
   - Scholarship to attend [rOpenSci](https://ropensci.org/)’s
     [runconf18](http://unconf18.ropensci.org/#participants), Seattle,
     USA (\~USD 1,500).
-
-### Largest grant and sponsor
-
-2011-2015: AusAid scholarship for PhD at the University of Queensland,
-Australia (\~USD 190,000)
