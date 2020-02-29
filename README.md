@@ -44,8 +44,10 @@ teacher to popular open software projects or communities
     variation in pre-human ecosystems can guide conservation: An example
     from a Caribbean coral
     reef](https://www.nature.com/articles/s41598-020-59436-y) (see also
-    [Smithsonian’s
-    news](https://www.si.edu/newsdesk/releases/plenty-gloom-dash-hope-fossils-help-identify-lone-bright-spot-reef-similar-state)).
+    news releases
+    [here](https://www.si.edu/newsdesk/releases/plenty-gloom-dash-hope-fossils-help-identify-lone-bright-spot-reef-similar-state),
+    [here](https://stri.si.edu/story/bright-spot), and
+    [here](https://www.eurekalert.org/pub_releases/2020-02/stri-fhi022020.php)).
 
   - Leonard, Lepore et al. Paleoceanography and Paleoclimatology (2020).
     [A U‐Th Dating Approach to Understanding Past Coral Reef Dynamics

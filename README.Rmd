@@ -35,7 +35,7 @@ I'm most experienced in software development, research and teaching. I implement
 
 ### Recently published academic papers
 
-* O'Dea, Lepore et al. Nature Scientific Reports (2020). [Defining variation in pre-human ecosystems can guide conservation: An example from a Caribbean coral reef](https://www.nature.com/articles/s41598-020-59436-y) (see also [Smithsonian's news](https://www.si.edu/newsdesk/releases/plenty-gloom-dash-hope-fossils-help-identify-lone-bright-spot-reef-similar-state)).
+* O'Dea, Lepore et al. Nature Scientific Reports (2020). [Defining variation in pre-human ecosystems can guide conservation: An example from a Caribbean coral reef](https://www.nature.com/articles/s41598-020-59436-y) (see also news releases [here](https://www.si.edu/newsdesk/releases/plenty-gloom-dash-hope-fossils-help-identify-lone-bright-spot-reef-similar-state), [here](https://stri.si.edu/story/bright-spot), and [here](https://www.eurekalert.org/pub_releases/2020-02/stri-fhi022020.php)).
 
 * Leonard, Lepore et al. Paleoceanography and Paleoclimatology (2020). [A U‐Th Dating Approach to Understanding Past Coral Reef Dynamics and Geomorphological Constraints on Future Reef Growth Potential; Mazie Bay, Southern Great Barrier Reef](https://doi.org/10.1029/2019PA003768).
 
