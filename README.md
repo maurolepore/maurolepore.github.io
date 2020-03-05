@@ -61,13 +61,14 @@ teacher to popular open software projects or communities
 
 ### Other contributions to open software and reproducible research
 
-  - Expert for [eLife Innovation
+  - [Expert for eLife Innovation
     Leaders 2020](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
 
   - Software peer-review:
     
-      - [rOpenSci, gitignore
-        package](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351).
+      - [Reviewer and guest editor for
+        rOpenSci](https://github.com/ropensci/software-review#reviewers-and-guest-editors)
+        ([example](https://github.com/ropensci/software-review/issues/303#issuecomment-496514351)).
 
 #### Meetups
 
