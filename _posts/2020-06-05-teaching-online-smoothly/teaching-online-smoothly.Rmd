@@ -49,18 +49,16 @@ The teaching staff included two instructors and four helpers. We followed the ki
 * We had redundant channels for internal communication. We sent most private messages via Slack -- Zoom’s chat makes it too easy to accidentally send private messages to everyone.
 * We kept learners muted.
 * For notes, questions and feedback we used a collaborative document (Google Doc).
+* We assumed nothing about the learners:
+  * We surveyed their experience before the workshop.
+  * We introduced them to the code of conduct.
+  * We tested they could all use the features of  Zoom we cared about.
+  * We tested they could all use the collaborative document.
+  * We showed them how to efficiently manage the limited screen space.
+  * We explained when we expected them to listen or work on a task.
+  * We gave them the tools they worked with. (This was a programming workshop, so we gave them the same computing environment (https://rstudio.cloud/) we taught from.
 
-We assumed nothing about the learners:
-
-* We surveyed their experience before the workshop.
-* We introduced them to the code of conduct.
-* We tested they could all use the features of  Zoom we cared about.
-* We tested they could all use the collaborative document.
-* We showed them how to efficiently manage the limited screen space.
-* We explained when we expected them to listen or work on a task.
-* We gave them the tools they worked with. (This was a programming workshop, so we gave them the same computing environment (https://rstudio.cloud/) we taught from.
-
-## Who are we
+## Who we are
 
 The learners and helpers were from Rice University. The helpers were mostly graduate students, a few faculty, and one undergraduate student. The helpers were Lisa Spiro, Clinton Heider, Miaomiao Rimmer, and  John Mulligan; they were helpful and kind.
 

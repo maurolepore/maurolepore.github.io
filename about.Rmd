@@ -32,6 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Other contributions
 
+
 * [Reviewer and guest editor](https://github.com/ropensci/software-review#reviewers-and-guest-editors) for rOpenSci.
 
 * [Expert for eLife Innovation Leaders 2020](https://elifesciences.org/labs/b87d3cda/innovation-leaders-2020-meet-our-mentors-and-experts).
@@ -46,10 +47,10 @@ I am a [Certified](http://bit.ly/mauro-lepore-carpentries-certificate) [instruct
 * March, 2018: [Smithsonian Environmental Research Center, Smithsonian Institution](https://smithsonianworkshops.github.io/2018-03-07-serc/).
 
 ## Blogs
-
 * [Activity on community.rstudio](https://community.rstudio.com/u/mauro_lepore/summary).
 * [Personal blog](https://maurolepore.github.io)
 * June 2020 - today: [Blogging at 2DII](https://2degreesinvesting.github.io)
+* June, 2020: [Teaching online, smoothly](https://metadocencia.netlify.app/en/post/experiences_mauro/) - posted on [MetaDocencia](https://metadocencia.netlify.app/en/).
 * January, 2018 - August, 2018: [Blogging at ForestGEO](https://fgeo.netlify.com/).
 * July, 2018: [Invited post at ropensci.org about work following rOpenSci's runconf18](https://ropensci.org/blog/2018/07/17/pkginspector/).
 
