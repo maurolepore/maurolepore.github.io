@@ -18,6 +18,7 @@ collections:
   posts:
     share: [twitter]
     custom: _custom.html
+    disqus: maurolepore
 twitter:
   site: "@mauro_lepore"
   creator: "@mauro_lepore"
