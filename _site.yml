@@ -17,6 +17,7 @@ navbar:
 collections:
   posts:
     share: [twitter]
+    custom: _custom.html
 twitter:
   site: "@mauro_lepore"
   creator: "@mauro_lepore"

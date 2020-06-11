@@ -1,5 +1,6 @@
 ---
-title: ""
+title: " "
+description: " "
 site: distill::distill_website
 listing: posts
 ---

@@ -19,20 +19,23 @@
  <!--/radix_placeholder_import_source-->
 
   <!--radix_placeholder_meta_tags-->
-  <title>Mauro Lepore: </title>
+  <title>Mauro Lepore:  </title>
   
+  <meta property="description" itemprop="description" content=""/>
   
   
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Mauro Lepore: "/>
+  <meta property="og:title" content="Mauro Lepore:  "/>
   <meta property="og:type" content="article"/>
+  <meta property="og:description" content=""/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Mauro Lepore"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Mauro Lepore: "/>
+  <meta property="twitter:title" content="Mauro Lepore:  "/>
+  <meta property="twitter:description" content=""/>
   <meta property="twitter:site" content="@mauro_lepore"/>
   <meta property="twitter:creator" content="@mauro_lepore"/>
   
@@ -40,7 +43,7 @@
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":[""]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site","listing"]}},"value":[{"type":"character","attributes":{},"value":[" "]},{"type":"character","attributes":{},"value":[" "]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1367,7 +1370,7 @@
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"","authors":[]}
+{"title":" ","description":"","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1715,7 +1718,7 @@ function init_posts_list() {
 
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
-<h1 class="posts-list-caption"></h1>
+<h1 class="posts-list-caption"> </h1>
 <a href="posts/2020-06-05-teaching-online-smoothly/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["teaching"]}</script>
 <div class="metadata">
@@ -1731,6 +1734,16 @@ function init_posts_list() {
 </a>
 </div>
 <div class="posts-sidebar">
+<div><div class="sidebar-section custom">
+  <h3>Search</h3>
+  <form action="https://duckduckgo.com/">
+    <input type="text" name="q" placeholder="Search...">
+    <input type="hidden" name="sites" 
+      value="https://maurolepore.github.io/"> <!-- Replace with your blog URL -->
+    <!--<button type="submit">Search</button>-->
+  </form>
+</div>
+</div>
 <div class="sidebar-section categories">
 <h3>Categories</h3>
 <ul>
