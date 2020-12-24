@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://2degreesinvesting.github.io/about.html</loc>
-    <lastmod>2020-12-24T16:25:11-03:00</lastmod>
+    <lastmod>2020-12-24T16:40:49-03:00</lastmod>
   </url>
   <url>
     <loc>https://2degreesinvesting.github.io/</loc>
@@ -11,6 +11,14 @@
   <url>
     <loc>https://2degreesinvesting.github.io/NOTES.html</loc>
     <lastmod>2020-06-05T19:45:27-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://2degreesinvesting.github.io/posts/2020-01-01-my-most-recent-work/</loc>
+    <lastmod>2020-12-24T16:42:27-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://2degreesinvesting.github.io/posts/2020-01-02-my-older-work/</loc>
+    <lastmod>2020-12-24T16:42:18-03:00</lastmod>
   </url>
   <url>
     <loc>https://2degreesinvesting.github.io/posts/2020-06-05-teaching-online-smoothly/</loc>
