@@ -8,12 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Social
-
-* [Twitter](https://twitter.com/mauro_lepore).
-* [GitHub](https://github.com/maurolepore).
-* [LinkedIn](https://www.linkedin.com/in/mauro-lepore).
-* [YouTube](http://bit.ly/r-videos).
+[Twitter](https://twitter.com/mauro_lepore), [GitHub](https://github.com/maurolepore), [LinkedIn](https://www.linkedin.com/in/mauro-lepore), [YouTube](http://bit.ly/r-videos).
 
 # Recent
 
