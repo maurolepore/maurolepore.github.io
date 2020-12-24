@@ -8,5 +8,5 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-See my posts about my recent and older work or find me here on [Twitter](https://twitter.com/mauro_lepore), [GitHub](https://github.com/maurolepore), [LinkedIn](https://www.linkedin.com/in/mauro-lepore), or [YouTube](http://bit.ly/r-videos).
+See posts [about me](https://maurolepore.github.io/#category:about-me), or find me here on [Twitter](https://twitter.com/mauro_lepore), [GitHub](https://github.com/maurolepore), [LinkedIn](https://www.linkedin.com/in/mauro-lepore), or [YouTube](http://bit.ly/r-videos).
 
