@@ -38,7 +38,10 @@ Wickham)](https://adv-r.hadley.nz/introduction.html#intro-ack), [Advanced R
 
 ## Teaching
 
-* [Data science incubator](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO).
+* Host of [Data science incubator
+meetups](https://www.youtube.com/playlist?list=PLvgdJdJDL-APbB315sB3Lv_2VP2g0ioFO).
+* Host of [Tidy data science (2-day
+workshop)](https://github.com/2DegreesInvesting/tidy-ds#tidy-ds).
 
 ## Blogs
 
