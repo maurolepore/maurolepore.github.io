@@ -30,8 +30,6 @@ knitr::opts_chunk$set(
 
 I build software and help people understand their data. Here is what I did recenly, but before 2020.
 
-# Older
-
 ### Teaching
 
 I am a [Certified](http://bit.ly/mauro-lepore-carpentries-certificate) [instructor of The Carpentries](https://datascience.si.edu/carpentries); I [train my colleagues in data science weekly since October 2019](https://github.com/2DegreesInvesting/ds-incubator.).  Occasionally I also teach. For example:

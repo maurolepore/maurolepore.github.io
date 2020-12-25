@@ -6,7 +6,7 @@
       "description": "I build software and help people understand their data.",
       "author": [],
       "contents": "\nSee posts about me, or find me on Twitter, GitHub, LinkedIn, or YouTube.\n\n\n\n",
-      "last_modified": "2020-12-25T11:54:47-03:00"
+      "last_modified": "2020-12-25T11:58:11-03:00"
     },
     {
       "path": "index.html",
@@ -14,13 +14,13 @@
       "description": " ",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-25T11:54:47-03:00"
+      "last_modified": "2020-12-25T11:58:11-03:00"
     },
     {
       "path": "NOTES.html",
       "author": [],
       "contents": "\nNice bio I didn’t write: http://www.datalatam.com/49/ Data Latam en 2019: https://connect.ixpantia.com/ixblog/posts/2019-12-22-data-latam-en-2019/\n\n\n\n",
-      "last_modified": "2020-12-25T11:54:48-03:00"
+      "last_modified": "2020-12-25T11:58:11-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
